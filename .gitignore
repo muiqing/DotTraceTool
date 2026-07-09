@@ -1,0 +1,37 @@
+# === IDE ===
+.idea/
+
+# === PolarBear 本地数据 ===
+.polarmind/
+
+# === dotTrace 快照（大文件！）===
+Snapshots/
+*.dtp
+*.dtp.*
+*.dtt
+
+# === dotTrace 工具本体（大量二进制文件）===
+JetBrains.dotTrace/
+
+# === 日志 ===
+Logs/
+
+# === 分析报告（可重新生成）===
+Reports/
+
+# === Crash Dump ===
+PolarControlDump/
+
+# === 自动化截图 ===
+Automation/UI/screenshots/
+
+# === Python 缓存 ===
+__pycache__/
+*.pyc
+
+# === 通用 ===
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini

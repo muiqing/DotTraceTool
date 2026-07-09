@@ -1,6 +1,0 @@
-﻿[2026-06-19 05:15:41] [INFO] --- 第 2 轮巡检 ---
-[2026-06-19 05:15:42] [OK] 开始采集: PID=5368, 类型=Sampling, 时长=15s, 标签=Patrol_R2_CPU6_Mem1994
-[2026-06-19 05:16:03] [OK] 快照已保存: PolarControl_Patrol_R2_CPU6_Mem1994_Sampling_20260619_051542.dtp (0.02 MB)
-[2026-06-19 17:16:04] [INFO] --- 第 3 轮巡检 ---
-[2026-06-19 17:16:05] [OK] 开始采集: PID=5368, 类型=Sampling, 时长=15s, 标签=Patrol_R3_CPU8.2_Mem2075
-[2026-06-19 17:16:25] [OK] 快照已保存: PolarControl_Patrol_R3_CPU8.2_Mem2075_Sampling_20260619_171605.dtp (0.02 MB)

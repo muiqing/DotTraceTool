@@ -1,8 +1,0 @@
-﻿[2026-06-21 05:17:10] [INFO] --- 第 6 轮巡检 ---
-[2026-06-21 05:17:11] [WARN] 检测到异常: 内存增长=268MB, 句柄增长=1832, CPU=7.4%
-[2026-06-21 05:17:11] [OK] 开始采集: PID=5368, 类型=Sampling, 时长=15s, 标签=Patrol_R6_CPU7.4_Mem2151_ANOMALY
-[2026-06-21 05:17:31] [OK] 快照已保存: PolarControl_Patrol_R6_CPU7.4_Mem2151_ANOMALY_Sampling_20260621_051711.dtp (0.02 MB)
-[2026-06-21 17:17:32] [INFO] --- 第 7 轮巡检 ---
-[2026-06-21 17:17:33] [WARN] 检测到异常: 内存增长=383MB, 句柄增长=2232, CPU=7.6%
-[2026-06-21 17:17:33] [OK] 开始采集: PID=5368, 类型=Sampling, 时长=15s, 标签=Patrol_R7_CPU7.6_Mem2266_ANOMALY
-[2026-06-21 17:17:53] [OK] 快照已保存: PolarControl_Patrol_R7_CPU7.6_Mem2266_ANOMALY_Sampling_20260621_171733.dtp (0.02 MB)
