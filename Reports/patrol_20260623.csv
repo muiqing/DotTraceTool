@@ -1,0 +1,3 @@
+﻿Time,CPU%,MemoryMB,Handles,Threads,Anomaly
+05:19:01,25.4,2838,11852,626,True
+17:19:24,18.3,3415,12235,628,True

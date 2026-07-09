@@ -1,0 +1,8 @@
+windows-x64\JetBrains.Profiler.AttachHelper.pdb      jetbrains.profiler.attachhelper.pdb/1bed3d3d14a44e68bd89f8e3c92bdabc1/jetbrains.profiler.attachhelper.pd_
+windows-x64\JetBrains.Profiler.Core.pdb              jetbrains.profiler.core.pdb/8e4cdf534cca4825a52186684452ffc61/jetbrains.profiler.core.pd_
+windows-x64\JetBrains.Profiler.CoreApi.pdb           jetbrains.profiler.coreapi.pdb/17cdfa05fa894d9cade8f68a194debad1/jetbrains.profiler.coreapi.pd_
+windows-x64\JetBrains.Profiler.CoreTransparent.pdb   jetbrains.profiler.coretransparent.pdb/97de664ca73745fd8dc52e92b6dcc82c1/jetbrains.profiler.coretransparent.pd_
+windows-x64\JetBrains.Profiler.PdbServer.pdb         jetbrains.profiler.pdbserver.pdb/50901bec1a5943b2994d7970543c784e1/jetbrains.profiler.pdbserver.pd_
+windows-x64\JetBrains.Profiler.ProcessHelper.pdb     jetbrains.profiler.processhelper.pdb/9e9461ea4ba94d12bfd6cb547c6c1fba1/jetbrains.profiler.processhelper.pd_
+windows-x64\JetBrains.Profiler.WinRTFakeDebugger.pdb jetbrains.profiler.winrtfakedebugger.pdb/d53c684531eb4c7abad0d2b137a49aad1/jetbrains.profiler.winrtfakedebugger.pd_
+windows-x64\JetBrains.Profiler.WinRTHelper.pdb       jetbrains.profiler.winrthelper.pdb/2ff565f7c7a24f648ee4bff719b6000b1/jetbrains.profiler.winrthelper.pd_

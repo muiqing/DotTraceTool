@@ -1,0 +1,37 @@
+﻿[2026-06-25 05:20:10] [INFO] --- 第 14 轮巡检 ---
+[2026-06-25 05:20:11] [WARN] 检测到异常: 内存增长=2542MB, 句柄增长=4680, CPU=28.7%
+[2026-06-25 05:20:11] [OK] 开始采集: PID=5368, 类型=Sampling, 时长=15s, 标签=Patrol_R14_CPU28.7_Mem4425_ANOMALY
+[2026-06-25 05:20:31] [OK] 快照已保存: PolarControl_Patrol_R14_CPU28.7_Mem4425_ANOMALY_Sampling_20260625_052011.dtp (0.02 MB)
+[2026-06-25 17:20:32] [INFO] --- 第 15 轮巡检 ---
+[2026-06-25 17:20:33] [WARN] 检测到异常: 内存增长=3044MB, 句柄增长=5030, CPU=7.4%
+[2026-06-25 17:20:33] [OK] 开始采集: PID=5368, 类型=Sampling, 时长=15s, 标签=Patrol_R15_CPU7.4_Mem4927_ANOMALY
+[2026-06-25 17:20:54] [OK] 快照已保存: PolarControl_Patrol_R15_CPU7.4_Mem4927_ANOMALY_Sampling_20260625_172033.dtp (0.02 MB)
+[2026-06-25 17:20:54] [WARN] 已清理 1 个过期快照
+[2026-06-25 17:29:59] [OK] Settings saved (current session)
+[2026-06-25 17:30:05] [OK] Starting manual snapshot capture...
+[2026-06-25 17:30:05] [OK] 开始采集: PID=5368, 类型=Timeline, 时长=30s, 标签=Manual
+[2026-06-25 17:30:51] [OK] 快照已保存: PolarControl_Manual_Timeline_20260625_173005.dtp (0 MB)
+[2026-06-25 17:30:51] [OK] Snapshot saved: [2026-06-25 17:30:05] [OK] 开始采集: PID=5368, 类型=Timeline, 时长=30s, 标签=Manual [2026-06-25 17:30:51] [OK] 快照已保存: PolarControl_Manual_Timeline_20260625_173005.dtp (0 MB) PolarControl_Manual_Timeline_20260625_173005.dtp
+[2026-06-25 17:33:35] [WARN] Patrol stopped
+[2026-06-25 17:35:05] [OK] Starting manual snapshot capture...
+[2026-06-25 17:35:05] [OK] 开始采集: PID=5368, 类型=Timeline, 时长=30s, 标签=Manual
+[2026-06-25 17:35:49] [OK] 快照已保存: PolarControl_Manual_Timeline_20260625_173505.dtp (0 MB)
+[2026-06-25 17:35:49] [OK] Snapshot saved: [2026-06-25 17:35:05] [OK] 开始采集: PID=5368, 类型=Timeline, 时长=30s, 标签=Manual [2026-06-25 17:35:49] [OK] 快照已保存: PolarControl_Manual_Timeline_20260625_173505.dtp (0 MB) PolarControl_Manual_Timeline_20260625_173505.dtp
+[2026-06-25 17:37:39] [OK] Settings saved (current session)
+[2026-06-25 17:52:13] [OK] dotTrace Performance Profiler started
+[2026-06-25 17:52:13] [INFO] Target: PolarControl | Tool: C:\Users\jiajun.wu\Desktop\dottrace\JetBrains.dotTrace\dottrace.exe
+[2026-06-25 17:52:19] [OK] Starting manual snapshot capture...
+[2026-06-25 17:52:19] [OK] 开始采集: PID=25484, 类型=Sampling, 时长=30s, 标签=Manual
+[2026-06-25 17:52:54] [OK] 快照已保存: PolarControl_Manual_Sampling_20260625_175219.dtp (0.02 MB)
+[2026-06-25 17:52:54] [OK] Snapshot saved: [2026-06-25 17:52:19] [OK] 开始采集: PID=25484, 类型=Sampling, 时长=30s, 标签=Manual [2026-06-25 17:52:54] [OK] 快照已保存: PolarControl_Manual_Sampling_20260625_175219.dtp (0.02 MB) PolarControl_Manual_Sampling_20260625_175219.dtp
+[2026-06-25 17:54:04] [OK] dotTrace Performance Profiler started
+[2026-06-25 17:54:04] [INFO] Target: PolarControl | Tool: C:\Users\jiajun.wu\Desktop\dottrace\JetBrains.dotTrace\dottrace.exe
+[2026-06-25 17:54:11] [OK] Settings saved (current session)
+[2026-06-25 17:54:14] [OK] Starting manual snapshot capture...
+[2026-06-25 17:54:14] [OK] 开始采集: PID=25484, 类型=Timeline, 时长=30s, 标签=Manual
+[2026-06-25 17:54:58] [OK] 快照已保存: PolarControl_Manual_Timeline_20260625_175414.dtp (0 MB)
+[2026-06-25 17:54:58] [OK] Snapshot saved: [2026-06-25 17:54:14] [OK] 开始采集: PID=25484, 类型=Timeline, 时长=30s, 标签=Manual [2026-06-25 17:54:58] [OK] 快照已保存: PolarControl_Manual_Timeline_20260625_175414.dtp (0 MB) PolarControl_Manual_Timeline_20260625_175414.dtp
+[2026-06-25 17:56:59] [OK] Starting manual snapshot capture...
+[2026-06-25 17:56:59] [OK] 开始采集: PID=25484, 类型=Timeline, 时长=30s, 标签=Manual
+[2026-06-25 17:57:41] [OK] 快照已保存: PolarControl_Manual_Timeline_20260625_175659.dtp (0 MB)
+[2026-06-25 17:57:41] [OK] Snapshot saved: [2026-06-25 17:56:59] [OK] 开始采集: PID=25484, 类型=Timeline, 时长=30s, 标签=Manual [2026-06-25 17:57:41] [OK] 快照已保存: PolarControl_Manual_Timeline_20260625_175659.dtp (0 MB) PolarControl_Manual_Timeline_20260625_175659.dtp

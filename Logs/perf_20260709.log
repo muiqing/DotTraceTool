@@ -1,0 +1,34 @@
+﻿[2026-07-09 05:03:01] [INFO] --- 第 2 轮巡检 ---
+[2026-07-09 05:03:01] [OK] 开始采集: PID=21660, 类型=Sampling, 时长=15s, 标签=Patrol_R2_CPU0_Mem155
+[2026-07-09 05:03:03] [ERROR] dotTrace 退出码: 1024, 输出: dotTrace command-line profiler 2026.1.2 build 777.0.20260519.64707. Copyright (C) 2026 JetBrains s.r.o.
+dottrace.exe : Unable to find the process with the PID 21660: This might not be a .NET process; its runtime version doe
+sn't support attaching, or administrative rights are required to attach to this process. If you intentionally want to a
+ttach the profiler to a native process, note that it's possible only with the 'Timeline' profiling type and only on Win
+dows.
+所在位置 C:\Users\jiajun.wu\Desktop\dottrace\Scripts\Core.ps1:112 字符: 19
++         $output = & $tool @argList 2>&1
++                   ~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Unable to find ...nly on Windows.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Currently running processes:
+5484 - IntelAudioService.exe - 44M - C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_8e18542b6d21633d\
+AS\IAS\IntelAudioService.exe
+24992 - vIPconf.exe - 67M - C:\Program Files\Vector IP Config\vIPconf.exe
+5532 - SenaryAudioApp.Svc.exe - 25M - C:\Windows\System32\DriverStore\FileRepository\audioservice.inf_amd64_e5d5a5563ab
+bdeaf\SenaryAudioApp.Svc.exe
+6044 - IntelGraphicsSoftware.Service.exe - 14M - C:\Program Files\WindowsApps\AppUp.IntelArcSoftware_26.18.2353.0_x64__
+8j3eq9eme6ctt\VFS\ProgramFilesX64\Intel\Intel Graphics Software\IntelGraphicsSoftware.Service.exe
+13440 - SenaryAudioApp.exe - 59M - C:\Program Files\WindowsApps\SenaryTechnologyLimited.SenarySmartAudio_2.45.28.0_x64_
+_dqz7eftfn33jw\SenaryAudioApp.exe
+18440 - powershell.exe - 181M - C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+19484 - Quicker.exe - 177M - C:\Program Files\Quicker\Quicker.exe
+15356 - powershell.exe - 64M - C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+29072 - powershell.exe - 78M - C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+5516 - IpOverUsbSvc.exe - 10M - C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\11.0\bin\IpOve
+rUsbSvc.exe
+5420 - BLDHotKeyService.exe - 18M - C:\Program Files (x86)\斗战者控制台\BLDHotKeyService.exe
+1560 - BLDFnHotkeyUtility.exe - 33M - C:\Program Files (x86)\斗战者控制台\BLDFnHotkeyUtility.exe
+5648 - vHardwareService.exe - 28M - C:\Program Files (x86)\Vector Hardware Manager\VHS\vHardwareService.exe
+
+[2026-07-09 09:20:27] [WARN] Patrol stopped

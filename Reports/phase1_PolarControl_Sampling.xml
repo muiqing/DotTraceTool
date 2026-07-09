@@ -1,0 +1,1021 @@
+<Report>
+  <Function Id="0x00000002" FQN="[Garbage collection]" TotalTime="143" OwnTime="143" Samples="3" Instances="3">
+    <Instance TotalTime="58" OwnTime="58" Samples="1" />
+    <Instance TotalTime="45" OwnTime="45" Samples="1" />
+    <Instance TotalTime="41" OwnTime="41" Samples="1" />
+  </Function>
+  <Function Id="0x00000000" FQN="[Native code]" TotalTime="66756" OwnTime="0" Samples="1981" Instances="4">
+    <Instance TotalTime="10944" OwnTime="0" Samples="328" />
+    <Instance TotalTime="25795" OwnTime="0" Samples="770" />
+    <Instance TotalTime="30016" OwnTime="0" Samples="882" />
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00000005" FQN="[Native or optimized code]" TotalTime="62744" OwnTime="62744" Samples="1022" Instances="1" />
+  <Function Id="0x0D5002B7" FQN="CodeMeter.Api.CmCheckEvents" TotalTime="30019" OwnTime="0" Samples="587" Instances="1" />
+  <Function Id="0x0D500314" FQN="CodeMeter.InternalApi.InternalApiClass.CheckEvents" TotalTime="30019" OwnTime="0" Samples="587" Instances="1" />
+  <Function Id="0x0D500392" FQN="CodeMeter.Managing.ExternDll.NativeCmCheckEvents" TotalTime="30019" OwnTime="30019" Samples="587" Instances="1" />
+  <Function Id="0x0140460D" FQN="DevExpress.Data.Utils.WeakEventHandler`3.OnEvent" TotalTime="113" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x0160312B" FQN="DevExpress.Mvvm.Native.LinqExtensions.ForEach" TotalTime="506" OwnTime="92" Samples="23" Instances="2">
+    <Instance TotalTime="506" OwnTime="60" Samples="14" />
+    <Instance TotalTime="340" OwnTime="32" Samples="9" />
+  </Function>
+  <Function Id="0x0270413D" FQN="DevExpress.Xpf.Editors.EditableDataObject.set_Value" TotalTime="113" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x027041AA" FQN="DevExpress.Xpf.Editors.InplaceEditorBase.UpdateContent" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0BB024A6" FQN="DevExpress.Xpf.Grid.CellEditor.OnInnerContentChanged" TotalTime="113" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x0BB02527" FQN="DevExpress.Xpf.Grid.CellEditorBase.IsInactiveEditorButtonVisible" TotalTime="52" OwnTime="52" Samples="1" Instances="1" />
+  <Function Id="0x0BB00A1A" FQN="DevExpress.Xpf.Grid.ColumnBase.get_IsActualReadOnly" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0BB0224D" FQN="DevExpress.Xpf.Grid.EditGridCellData.get_IsEditing" TotalTime="30" OwnTime="30" Samples="1" Instances="1" />
+  <Function Id="0x0BB02251" FQN="DevExpress.Xpf.Grid.EditGridCellData.OnPropertyChanged" TotalTime="143" OwnTime="0" Samples="4" Instances="1" />
+  <Function Id="0x0BB046E2" FQN="DevExpress.Xpf.Grid.GridCellData+&lt;&gt;c.cctor&gt;b__1_0" TotalTime="30" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x07A00002" FQN="GyCommonModel.ViewModel.PropertyChangeBase.OnPropertyChanged" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x04000019" FQN="GyCommonTools.Utils.QPCTaskManager.SchedulerLoop" TotalTime="30002" OwnTime="30002" Samples="376" Instances="1" />
+  <Function Id="0x00100017" FQN="Interop+Globalization.StartsWith" TotalTime="1506" OwnTime="1506" Samples="45" Instances="5">
+    <Instance TotalTime="346" OwnTime="346" Samples="10" />
+    <Instance TotalTime="165" OwnTime="165" Samples="5" />
+    <Instance TotalTime="293" OwnTime="293" Samples="9" />
+    <Instance TotalTime="262" OwnTime="262" Samples="8" />
+    <Instance TotalTime="441" OwnTime="441" Samples="13" />
+  </Function>
+  <Function Id="0x0E600064" FQN="Interop+Kernel32.&lt;CancelIoEx&gt;g____PInvoke|1_0" TotalTime="35" OwnTime="35" Samples="1" Instances="1" />
+  <Function Id="0x001000D7" FQN="Interop+Kernel32.SetEvent" TotalTime="263" OwnTime="222" Samples="8" Instances="4">
+    <Instance TotalTime="169" OwnTime="128" Samples="5" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="33" OwnTime="33" Samples="1" />
+  </Function>
+  <Function Id="0x05200086" FQN="Interop+User32.GetMessageW" TotalTime="30019" OwnTime="30019" Samples="245" Instances="1" />
+  <Function Id="0x0E60000E" FQN="Interop+Winsock.recv" TotalTime="35" OwnTime="35" Samples="1" Instances="1" />
+  <Function Id="0x01A02C12" FQN="LightningChartLib.Licensing.LicenseChecker." TotalTime="29993" OwnTime="0" Samples="610" Instances="1" />
+  <Function Id="0x01800778" FQN="LightningChartLib.RenderingDefinitions.RectangleRD.get_Height" TotalTime="43" OwnTime="43" Samples="1" Instances="1" />
+  <Function Id="0x01800772" FQN="LightningChartLib.RenderingDefinitions.RectangleRD.get_X" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x018048B2" FQN="LightningChartLib.WPF.ChartingMVVM.Annotations.AnnotationBase.tmwcu" TotalTime="99" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x018049EB" FQN="LightningChartLib.WPF.ChartingMVVM.Annotations.AnnotationXY.tmwcu" TotalTime="99" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x018043CA" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisBase.FormatAxisValue" TotalTime="510" OwnTime="30" Samples="15" Instances="4">
+    <Instance TotalTime="309" OwnTime="0" Samples="9" />
+    <Instance TotalTime="63" OwnTime="0" Samples="2" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="106" OwnTime="30" Samples="3" />
+  </Function>
+  <Function Id="0x01804394" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisBase.tmupf" TotalTime="34" OwnTime="34" Samples="1" Instances="1" />
+  <Function Id="0x018043C2" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisBase.tmuqc" TotalTime="131" OwnTime="0" Samples="4" Instances="1" />
+  <Function Id="0x018043C3" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisBase.tmuqd" TotalTime="456" OwnTime="32" Samples="13" Instances="2">
+    <Instance TotalTime="131" OwnTime="0" Samples="4" />
+    <Instance TotalTime="325" OwnTime="32" Samples="9" />
+  </Function>
+  <Function Id="0x018043C4" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisBase.tmuqe" TotalTime="134" OwnTime="0" Samples="4" Instances="1" />
+  <Function Id="0x01804682" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisX.tmvbf" TotalTime="526" OwnTime="0" Samples="16" Instances="1" />
+  <Function Id="0x0180466F" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisX.tmwcu" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x018046E0" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisXYBase.GetMajorTicks" TotalTime="1837" OwnTime="0" Samples="54" Instances="1" />
+  <Function Id="0x018046DE" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisXYBase.tmvdl" TotalTime="45" OwnTime="45" Samples="1" Instances="1" />
+  <Function Id="0x0180472E" FQN="LightningChartLib.WPF.ChartingMVVM.Axes.AxisY.tmumu" TotalTime="1638" OwnTime="31" Samples="48" Instances="1" />
+  <Function Id="0x0180173A" FQN="LightningChartLib.WPF.ChartingMVVM.ChartNode.tmwcu" TotalTime="218" OwnTime="218" Samples="6" Instances="4">
+    <Instance TotalTime="34" OwnTime="34" Samples="1" />
+    <Instance TotalTime="55" OwnTime="55" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="99" OwnTime="99" Samples="3" />
+  </Function>
+  <Function Id="0x01801337" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.CalculatePixelAlignmentOffset" TotalTime="492" OwnTime="130" Samples="15" Instances="1" />
+  <Function Id="0x0180132A" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmlfv" TotalTime="63" OwnTime="32" Samples="2" Instances="1" />
+  <Function Id="0x01801320" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmka" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x0180133E" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmkp" TotalTime="36" OwnTime="36" Samples="1" Instances="1" />
+  <Function Id="0x01801340" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmkr" TotalTime="24906" OwnTime="64" Samples="743" Instances="1" />
+  <Function Id="0x0180134E" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmld" TotalTime="884" OwnTime="66" Samples="27" Instances="2">
+    <Instance TotalTime="631" OwnTime="66" Samples="19" />
+    <Instance TotalTime="253" OwnTime="0" Samples="8" />
+  </Function>
+  <Function Id="0x01801365" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmlz" TotalTime="253" OwnTime="0" Samples="8" Instances="1" />
+  <Function Id="0x01801390" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmmw" TotalTime="3009" OwnTime="44" Samples="91" Instances="1" />
+  <Function Id="0x018013B4" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmny" TotalTime="191" OwnTime="0" Samples="6" Instances="1" />
+  <Function Id="0x018013BC" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmoe" TotalTime="106" OwnTime="43" Samples="3" Instances="1" />
+  <Function Id="0x018013F7" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmpk" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0180141A" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmqk" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x0180149A" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmuk" TotalTime="10702" OwnTime="66" Samples="318" Instances="1" />
+  <Function Id="0x0180149B" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmul" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x0180149C" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmum" TotalTime="230" OwnTime="64" Samples="7" Instances="1" />
+  <Function Id="0x018014A1" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmur" TotalTime="1079" OwnTime="0" Samples="32" Instances="1" />
+  <Function Id="0x018014AD" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmus" TotalTime="99" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x018014A5" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmuv" TotalTime="1079" OwnTime="31" Samples="32" Instances="1" />
+  <Function Id="0x018014A6" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmuw" TotalTime="1047" OwnTime="31" Samples="31" Instances="1" />
+  <Function Id="0x018014AB" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmvb" TotalTime="1777" OwnTime="0" Samples="53" Instances="1" />
+  <Function Id="0x018014DA" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmwu" TotalTime="884" OwnTime="0" Samples="27" Instances="2">
+    <Instance TotalTime="631" OwnTime="0" Samples="19" />
+    <Instance TotalTime="253" OwnTime="0" Samples="8" />
+  </Function>
+  <Function Id="0x018014DD" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmwx" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x018014E4" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmxe" TotalTime="4471" OwnTime="0" Samples="131" Instances="1" />
+  <Function Id="0x018014E5" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmxf" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x018014EB" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmxl" TotalTime="1777" OwnTime="0" Samples="53" Instances="1" />
+  <Function Id="0x018014EE" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmxo" TotalTime="2067" OwnTime="0" Samples="62" Instances="1" />
+  <Function Id="0x018014F0" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmxq" TotalTime="3327" OwnTime="257" Samples="99" Instances="2">
+    <Instance TotalTime="1550" OwnTime="224" Samples="46" />
+    <Instance TotalTime="1777" OwnTime="32" Samples="53" />
+  </Function>
+  <Function Id="0x018014FE" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmye" TotalTime="642" OwnTime="0" Samples="19" Instances="1" />
+  <Function Id="0x018014FF" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmyf" TotalTime="163" OwnTime="0" Samples="5" Instances="1" />
+  <Function Id="0x01801504" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmyj" TotalTime="163" OwnTime="33" Samples="5" Instances="1" />
+  <Function Id="0x01801506" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmyl" TotalTime="577" OwnTime="0" Samples="17" Instances="1" />
+  <Function Id="0x0180151B" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmzf" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x0180152B" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmzv" TotalTime="30" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0180152F" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmmzz" TotalTime="30" OwnTime="30" Samples="1" Instances="1" />
+  <Function Id="0x01801534" FQN="LightningChartLib.WPF.ChartingMVVM.LightningChart.tmnae" TotalTime="30" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x018034D3" FQN="LightningChartLib.WPF.ChartingMVVM.SeriesXY.PointLineSeries.AddPoints" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x018034E6" FQN="LightningChartLib.WPF.ChartingMVVM.SeriesXY.PointLineSeries.tmscj" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x018034E7" FQN="LightningChartLib.WPF.ChartingMVVM.SeriesXY.PointLineSeries.tmwha" TotalTime="545" OwnTime="513" Samples="16" Instances="1" />
+  <Function Id="0x01803567" FQN="LightningChartLib.WPF.ChartingMVVM.SeriesXY.PointLineSeriesBase.tmwcu" TotalTime="66" OwnTime="33" Samples="2" Instances="1" />
+  <Function Id="0x01802BEA" FQN="LightningChartLib.WPF.ChartingMVVM.Views.View3D.View3D.GetAll3DSeries" TotalTime="171" OwnTime="0" Samples="5" Instances="1" />
+  <Function Id="0x01802BE9" FQN="LightningChartLib.WPF.ChartingMVVM.Views.View3D.View3D.tmqvn" TotalTime="134" OwnTime="0" Samples="4" Instances="1" />
+  <Function Id="0x018021F7" FQN="LightningChartLib.WPF.ChartingMVVM.Views.ViewXY.AxisLayout.tmwcu" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x018023DA" FQN="LightningChartLib.WPF.ChartingMVVM.Views.ViewXY.ViewXY.GetAll2DSeries" TotalTime="95" OwnTime="95" Samples="3" Instances="2">
+    <Instance TotalTime="61" OwnTime="61" Samples="2" />
+    <Instance TotalTime="34" OwnTime="34" Samples="1" />
+  </Function>
+  <Function Id="0x018023CE" FQN="LightningChartLib.WPF.ChartingMVVM.Views.ViewXY.ViewXY.GetAllLineSeries" TotalTime="41" OwnTime="41" Samples="1" Instances="1" />
+  <Function Id="0x01802425" FQN="LightningChartLib.WPF.ChartingMVVM.Views.ViewXY.ViewXY.GetGraphSegmentInfo" TotalTime="35" OwnTime="35" Samples="1" Instances="1" />
+  <Function Id="0x01802448" FQN="LightningChartLib.WPF.ChartingMVVM.Views.ViewXY.ViewXY.tmpro" TotalTime="62" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x0E0005F9" FQN="Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.Heartbeat.TimerLoop" TotalTime="29995" OwnTime="0" Samples="616" Instances="1" />
+  <Function Id="0x0520006A" FQN="Microsoft.Win32.SystemEvents.WindowThreadProc" TotalTime="30019" OwnTime="0" Samples="245" Instances="1" />
+  <Function Id="0x004002DB" FQN="MS.Internal.CulturePreservingExecutionContext.CallbackWrapper" TotalTime="27023" OwnTime="0" Samples="806" Instances="2">
+    <Instance TotalTime="1558" OwnTime="0" Samples="46" />
+    <Instance TotalTime="25464" OwnTime="0" Samples="760" />
+  </Function>
+  <Function Id="0x004002DA" FQN="MS.Internal.CulturePreservingExecutionContext.Run" TotalTime="27086" OwnTime="0" Samples="808" Instances="2">
+    <Instance TotalTime="1558" OwnTime="0" Samples="46" />
+    <Instance TotalTime="25528" OwnTime="0" Samples="762" />
+  </Function>
+  <Function Id="0x0040173E" FQN="MS.Internal.CulturePreservingExecutionContext+CultureAndContextManager.ReadCultureInfosFromCurrentThread" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0030133F" FQN="MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged" TotalTime="174" OwnTime="0" Samples="5" Instances="1" />
+  <Function Id="0x003015E1" FQN="MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState" TotalTime="174" OwnTime="31" Samples="5" Instances="1" />
+  <Function Id="0x00400250" FQN="MS.Utility.SingleObjectMap.Search" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00400195" FQN="MS.Win32.HwndSubclass.DefWndProcWrapper" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x0040018F" FQN="MS.Win32.HwndSubclass.SubclassWndProc" TotalTime="36739" OwnTime="120" Samples="1098" Instances="2">
+    <Instance TotalTime="10944" OwnTime="44" Samples="328" />
+    <Instance TotalTime="25795" OwnTime="76" Samples="770" />
+  </Function>
+  <Function Id="0x004001A1" FQN="MS.Win32.HwndWrapper.WndProc" TotalTime="36521" OwnTime="0" Samples="1092" Instances="2">
+    <Instance TotalTime="10868" OwnTime="0" Samples="326" />
+    <Instance TotalTime="25654" OwnTime="0" Samples="766" />
+  </Function>
+  <Function Id="0x07100113" FQN="Polar.ProtocolCore.Common.Properties.Settings.get_CacheDaq" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x071000E1" FQN="Polar.ProtocolCore.Common.Properties.Settings.get_XCPLogShowDAQ" TotalTime="65" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x07701209" FQN="Polar.ProtocolCore.Protocol.Comm.CommKernel.kernelThread" TotalTime="29993" OwnTime="0" Samples="897" Instances="1" />
+  <Function Id="0x0770120C" FQN="Polar.ProtocolCore.Protocol.Comm.CommKernel+&lt;&gt;c.cctor&gt;b__3_0" TotalTime="29993" OwnTime="0" Samples="897" Instances="1" />
+  <Function Id="0x0770129C" FQN="Polar.ProtocolCore.Protocol.Comm.DAQList.onValuesComplete" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x077012B2" FQN="Polar.ProtocolCore.Protocol.Comm.XCP.XCPCommunicator.dataReceived" TotalTime="164" OwnTime="0" Samples="5" Instances="1" />
+  <Function Id="0x0770130A" FQN="Polar.ProtocolCore.Protocol.Comm.XCP.XCPMaster.onDAQFrameReceived" TotalTime="67" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x0770139F" FQN="Polar.ProtocolCore.Protocol.Comm.XCP.XCPonUDP.&lt;getClient&gt;b__3_0" TotalTime="210024" OwnTime="0" Samples="3254" Instances="1" />
+  <Function Id="0x0770139C" FQN="Polar.ProtocolCore.Protocol.Comm.XCP.XCPonUDP.ProcessData" TotalTime="210024" OwnTime="0" Samples="3254" Instances="1" />
+  <Function Id="0x077013BB" FQN="Polar.ProtocolCore.Protocol.Comm.XCP.XCPReceiveBuffer.getFrameFromData" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x077013B9" FQN="Polar.ProtocolCore.Protocol.Comm.XCP.XCPReceiveBuffer.getFrameFromData" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0020001C" FQN="PolarControl.App.Main" TotalTime="30021" OwnTime="0" Samples="897" Instances="1" />
+  <Function Id="0x04000046" FQN="PolarControl.Common.CustomFixedThreadPool.Add" TotalTime="95" OwnTime="0" Samples="3" Instances="3">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x04000054" FQN="PolarControl.Common.CustomFixedThreadPool.For" TotalTime="63" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x04000052" FQN="PolarControl.Common.CustomFixedThreadPool.ForEach" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x04000045" FQN="PolarControl.Common.CustomFixedThreadPool.WorkComplete" TotalTime="1039" OwnTime="1006" Samples="31" Instances="1" />
+  <Function Id="0x04000429" FQN="PolarControl.Common.CustomFixedThreadPool+&lt;&gt;c__DisplayClass24_1`1.&lt;ForEach&gt;b__0" TotalTime="625" OwnTime="31" Samples="18" Instances="1" />
+  <Function Id="0x0400003E" FQN="PolarControl.Common.CustomThread.Work" TotalTime="9002223" OwnTime="31" Samples="267899" Instances="1" />
+  <Function Id="0x0400016E" FQN="PolarControl.Common.Tools.Diagnostics.ComputerInfo.get_MemoryAvailable" TotalTime="5385" OwnTime="0" Samples="145" Instances="1" />
+  <Function Id="0x0400016D" FQN="PolarControl.Common.Tools.Diagnostics.ComputerInfo.get_TotalPhysicalMemory" TotalTime="198" OwnTime="0" Samples="6" Instances="1" />
+  <Function Id="0x0400016F" FQN="PolarControl.Common.Tools.Diagnostics.ComputerInfo.get_UsedMemoryRatio" TotalTime="5583" OwnTime="0" Samples="151" Instances="1" />
+  <Function Id="0x07201512" FQN="PolarControl.Core.DataHandler.XCPDataHandler.ReceiveNewFrames" TotalTime="594" OwnTime="32" Samples="17" Instances="1" />
+  <Function Id="0x07200E1A" FQN="PolarControl.Core.Project.ViewModels.DeviceViewModel.DevicePolarBox.UpdateRuntimeInfo" TotalTime="1989" OwnTime="0" Samples="56" Instances="1" />
+  <Function Id="0x0720040D" FQN="PolarControl.Core.Project.ViewModels.ExperimentViewModel+&lt;&gt;c__DisplayClass243_0+&lt;&lt;MemoryTest&gt;b__0&gt;d.MoveNext" TotalTime="5583" OwnTime="0" Samples="151" Instances="1" />
+  <Function Id="0x07200980" FQN="PolarControl.Core.Project.ViewModels.PlatformViewModel.XCPPlatformBase.&lt;StartMeasuring&gt;b__32_0" TotalTime="29993" OwnTime="0" Samples="231" Instances="1" />
+  <Function Id="0x0720096D" FQN="PolarControl.Core.Project.ViewModels.PlatformViewModel.XCPPlatformBase.ConvertDataFrame" TotalTime="390" OwnTime="64" Samples="12" Instances="1" />
+  <Function Id="0x072009DC" FQN="PolarControl.Core.Project.ViewModels.PlatformViewModel.XCPPlatformBase+&lt;&gt;c__DisplayClass37_0.&lt;StartConsumingAsync&gt;b__0" TotalTime="390" OwnTime="0" Samples="12" Instances="1" />
+  <Function Id="0x072009DD" FQN="PolarControl.Core.Project.ViewModels.PlatformViewModel.XCPPlatformBase+&lt;&gt;c__DisplayClass40_0.&lt;RefreshData&gt;b__0" TotalTime="206" OwnTime="0" Samples="6" Instances="1" />
+  <Function Id="0x07200A17" FQN="PolarControl.Core.Project.ViewModels.PlatformViewModel.XCPPlatformBase+&lt;StartConsumingAsync&gt;d__37.MoveNext" TotalTime="62" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x0720043A" FQN="PolarControl.Core.Project.ViewModels.ProjectViewModel.get_ActivatedExperiment" TotalTime="214" OwnTime="0" Samples="6" Instances="3">
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+    <Instance TotalTime="97" OwnTime="0" Samples="3" />
+    <Instance TotalTime="83" OwnTime="0" Samples="2" />
+  </Function>
+  <Function Id="0x0720044E" FQN="PolarControl.Core.Project.ViewModels.ProjectViewModel+&lt;&gt;c.&lt;get_ActivatedExperiment&gt;b__31_0" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x0A300019" FQN="PolarControl.DataEngine.OnlineUIScheduler.ctor&gt;b__12_0" TotalTime="30016" OwnTime="0" Samples="882" Instances="1" />
+  <Function Id="0x08A001C5" FQN="PolarControl.Devices.Device.Common.Managers.XcpProtocolManager.GetSignal" TotalTime="94" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x08A001BD" FQN="PolarControl.Devices.Device.Common.Managers.XcpProtocolManager.XcpMaster_OnValuesReceived" TotalTime="36" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x08A0030A" FQN="PolarControl.Devices.Device.Common.Managers.XcpProtocolManager+&lt;&gt;c__DisplayClass38_0.&lt;DaqDataProcessing&gt;b__0" TotalTime="94" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x08A0030C" FQN="PolarControl.Devices.Device.Common.Managers.XcpProtocolManager+&lt;DaqDataProcessing&gt;d__38.MoveNext" TotalTime="33" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x08A00012" FQN="PolarControl.Devices.Helper.DaqHelper.ExtractSignals" TotalTime="94" OwnTime="31" Samples="3" Instances="1" />
+  <Function Id="0x08A00008" FQN="PolarControl.Devices.Jobs.HardwareDetectorJob.Execute" TotalTime="1989" OwnTime="0" Samples="56" Instances="1" />
+  <Function Id="0x01B01B65" FQN="PolarControl.Instruments.PlotterModels.BindAxisX.SetScrollPosition" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x01B01B8A" FQN="PolarControl.Instruments.PlotterModels.BindAxisYBase.BindAxisY_FormatValueLabel" TotalTime="1978" OwnTime="0" Samples="58" Instances="1" />
+  <Function Id="0x01B01B8C" FQN="PolarControl.Instruments.PlotterModels.BindAxisYBase.UpdateTextDirection" TotalTime="63" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x01B01BF9" FQN="PolarControl.Instruments.PlotterModels.SingleSignalScopeBusiness.RaiseAxesScrollPosition" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x01B01CFF" FQN="PolarControl.Instruments.PlotterModels.TimeSignalViewXY.RaiseAxesScrollPositionCalc" TotalTime="123" OwnTime="30" Samples="4" Instances="1" />
+  <Function Id="0x01B017E6" FQN="PolarControl.Instruments.ViewModels.Common.Scope.AxisMappingDataBase.GetEnumerator" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x01B02438" FQN="PolarControl.Instruments.ViewModels.Common.Scope.AxisMappingDataBase+&lt;GetEnumerator&gt;d__108.MoveNext" TotalTime="197" OwnTime="47" Samples="5" Instances="1" />
+  <Function Id="0x01B018F0" FQN="PolarControl.Instruments.ViewModels.Common.Scope.SignalLegendBase.Model_FrameAppended" TotalTime="479" OwnTime="119" Samples="14" Instances="1" />
+  <Function Id="0x01B02482" FQN="PolarControl.Instruments.ViewModels.Common.Scope.TimeScope.AxesCollection+&lt;System-Collections-Generic-IEnumerable&lt;PolarControl-Instruments-ViewModels-Common-Scope-Interfaces-IAxisMappingData&gt;-GetEnumerator&gt;d__2.MoveNext" TotalTime="106" OwnTime="63" Samples="3" Instances="1" />
+  <Function Id="0x01B019D3" FQN="PolarControl.Instruments.ViewModels.Common.Scope.TimeScope.TimeSignalLegend.OnSignalFrameAppended" TotalTime="360" OwnTime="36" Samples="11" Instances="1" />
+  <Function Id="0x01B00A5A" FQN="PolarControl.Instruments.ViewModels.SequenceScopeViewModel`1.get_AxisCollection" TotalTime="159" OwnTime="65" Samples="5" Instances="1" />
+  <Function Id="0x01B00114" FQN="PolarControl.Instruments.Views.LightningChartView.ConsumerLoop" TotalTime="30017" OwnTime="0" Samples="897" Instances="1" />
+  <Function Id="0x01B00115" FQN="PolarControl.Instruments.Views.LightningChartView.MergeRenderQueueBatch" TotalTime="103" OwnTime="33" Samples="3" Instances="1" />
+  <Function Id="0x01B00112" FQN="PolarControl.Instruments.Views.LightningChartView.ProducerLoop" TotalTime="29986" OwnTime="0" Samples="896" Instances="1" />
+  <Function Id="0x01B00119" FQN="PolarControl.Instruments.Views.LightningChartView.RefreshUI" TotalTime="321" OwnTime="32" Samples="10" Instances="1" />
+  <Function Id="0x01B00113" FQN="PolarControl.Instruments.Views.LightningChartView.RunProducerScanOnce" TotalTime="886" OwnTime="126" Samples="26" Instances="1" />
+  <Function Id="0x01B02302" FQN="PolarControl.Instruments.Views.LightningChartView+&lt;&gt;c.&lt;MergeRenderQueueBatch&gt;b__16_1" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x01B02307" FQN="PolarControl.Instruments.Views.LightningChartView+&lt;&gt;c__DisplayClass14_1.&lt;RunProducerScanOnce&gt;b__2" TotalTime="79" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x01B0230E" FQN="PolarControl.Instruments.Views.LightningChartView+&lt;&gt;c__DisplayClass15_0.&lt;ConsumerLoop&gt;b__2" TotalTime="321" OwnTime="0" Samples="10" Instances="1" />
+  <Function Id="0x083000F3" FQN="PolarControl.Variables.ViewModels.XCP.A2LVariableBase.Equals" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x083000E8" FQN="PolarControl.Variables.ViewModels.XCP.A2LVariableBase.get_ToPhysicalFunc" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x083000F4" FQN="PolarControl.Variables.ViewModels.XCP.A2LVariableBase.GetHashCode" TotalTime="134" OwnTime="31" Samples="4" Instances="2">
+    <Instance TotalTime="96" OwnTime="31" Samples="3" />
+    <Instance TotalTime="38" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x08300174" FQN="PolarControl.Variables.ViewModels.XCP.XCPMeasurementViewModel.get_BufferSize" TotalTime="83" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x0830019B" FQN="PolarControl.Variables.ViewModels.XCP.XCPMeasurementViewModel.InvokeFrameAppended" TotalTime="479" OwnTime="0" Samples="14" Instances="1" />
+  <Function Id="0x08300176" FQN="PolarControl.Variables.ViewModels.XCP.XCPMeasurementViewModel.set_Value" TotalTime="206" OwnTime="0" Samples="6" Instances="1" />
+  <Function Id="0x002000AB" FQN="PolarControl.ViewModels.MainViewModel.LicenseDongleChecker" TotalTime="30019" OwnTime="0" Samples="587" Instances="1" />
+  <Function Id="0x00200117" FQN="PolarControl.ViewModels.MainViewModel+&lt;LicenseDongleChecker&gt;d__74.MoveNext" TotalTime="30019" OwnTime="0" Samples="587" Instances="1" />
+  <Function Id="0x07600064" FQN="PolarControl.ViewModels.Variable.Helper.InnerSingleValueMeasurableVariableExtension.GetBufferSize" TotalTime="83" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x01800368" FQN="qjnse.tmict" TotalTime="1251" OwnTime="31" Samples="38" Instances="12">
+    <Instance TotalTime="191" OwnTime="0" Samples="6" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="34" OwnTime="0" Samples="1" />
+    <Instance TotalTime="252" OwnTime="0" Samples="7" />
+    <Instance TotalTime="62" OwnTime="0" Samples="2" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="108" OwnTime="31" Samples="3" />
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+    <Instance TotalTime="222" OwnTime="0" Samples="7" />
+    <Instance TotalTime="163" OwnTime="0" Samples="5" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="61" OwnTime="0" Samples="2" />
+  </Function>
+  <Function Id="0x01800367" FQN="qjnse.tmirk" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x0180036D" FQN="qjnse.tmiro" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x01800379" FQN="qjnse+khmlg.Compare" TotalTime="34" OwnTime="34" Samples="1" Instances="1" />
+  <Function Id="0x018003E4" FQN="qjnso.tmiyc" TotalTime="65" OwnTime="32" Samples="2" Instances="2">
+    <Instance TotalTime="34" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+  </Function>
+  <Function Id="0x01800417" FQN="qjnsp.tmicn" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x0180054F" FQN="qjnsp.tmict" TotalTime="1283" OwnTime="32" Samples="39" Instances="12">
+    <Instance TotalTime="191" OwnTime="0" Samples="6" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="34" OwnTime="0" Samples="1" />
+    <Instance TotalTime="252" OwnTime="0" Samples="7" />
+    <Instance TotalTime="62" OwnTime="0" Samples="2" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="108" OwnTime="0" Samples="3" />
+    <Instance TotalTime="96" OwnTime="32" Samples="3" />
+    <Instance TotalTime="222" OwnTime="0" Samples="7" />
+    <Instance TotalTime="163" OwnTime="0" Samples="5" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="61" OwnTime="0" Samples="2" />
+  </Function>
+  <Function Id="0x01800415" FQN="qjnsp.tmjjf" TotalTime="61" OwnTime="61" Samples="2" Instances="2">
+    <Instance TotalTime="29" OwnTime="29" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+  </Function>
+  <Function Id="0x01800453" FQN="qjnsp.tmjjm" TotalTime="93" OwnTime="62" Samples="3" Instances="2">
+    <Instance TotalTime="62" OwnTime="62" Samples="2" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x01800478" FQN="qjnsp.tmjjw" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x01800479" FQN="qjnsp.tmjjx" TotalTime="292" OwnTime="163" Samples="9" Instances="2">
+    <Instance TotalTime="192" OwnTime="98" Samples="6" />
+    <Instance TotalTime="100" OwnTime="65" Samples="3" />
+  </Function>
+  <Function Id="0x01800552" FQN="qjnsp.tmjlq" TotalTime="76" OwnTime="33" Samples="2" Instances="2">
+    <Instance TotalTime="44" OwnTime="0" Samples="1" />
+    <Instance TotalTime="33" OwnTime="33" Samples="1" />
+  </Function>
+  <Function Id="0x018005E3" FQN="qjnsp.tmjnr" TotalTime="113" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x018005EB" FQN="qjnsp.tmjnx" TotalTime="450" OwnTime="191" Samples="12" Instances="4">
+    <Instance TotalTime="124" OwnTime="40" Samples="3" />
+    <Instance TotalTime="51" OwnTime="51" Samples="1" />
+    <Instance TotalTime="132" OwnTime="100" Samples="4" />
+    <Instance TotalTime="143" OwnTime="0" Samples="4" />
+  </Function>
+  <Function Id="0x018005F4" FQN="qjnsp.tmjnz" TotalTime="1143" OwnTime="33" Samples="35" Instances="2">
+    <Instance TotalTime="657" OwnTime="0" Samples="20" />
+    <Instance TotalTime="486" OwnTime="33" Samples="15" />
+  </Function>
+  <Function Id="0x018005FE" FQN="qjnsp.tmjoc" TotalTime="1044" OwnTime="108" Samples="32" Instances="2">
+    <Instance TotalTime="591" OwnTime="108" Samples="18" />
+    <Instance TotalTime="453" OwnTime="0" Samples="14" />
+  </Function>
+  <Function Id="0x018005F8" FQN="qjnsp.tmjod" TotalTime="66" OwnTime="66" Samples="2" Instances="1" />
+  <Function Id="0x0180060E" FQN="qjnsp.tmjor" TotalTime="511" OwnTime="353" Samples="16" Instances="2">
+    <Instance TotalTime="260" OwnTime="194" Samples="8" />
+    <Instance TotalTime="251" OwnTime="159" Samples="8" />
+  </Function>
+  <Function Id="0x0180047D" FQN="qjnsp.tmkyl" TotalTime="525" OwnTime="107" Samples="16" Instances="5">
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+    <Instance TotalTime="106" OwnTime="44" Samples="3" />
+    <Instance TotalTime="223" OwnTime="31" Samples="7" />
+    <Instance TotalTime="33" OwnTime="33" Samples="1" />
+    <Instance TotalTime="100" OwnTime="0" Samples="3" />
+  </Function>
+  <Function Id="0x01800451" FQN="qjnsp.tmkyn" TotalTime="474" OwnTime="349" Samples="15" Instances="3">
+    <Instance TotalTime="251" OwnTime="188" Samples="8" />
+    <Instance TotalTime="95" OwnTime="33" Samples="3" />
+    <Instance TotalTime="128" OwnTime="128" Samples="4" />
+  </Function>
+  <Function Id="0x01800448" FQN="qjnsp.tmkyr" TotalTime="65" OwnTime="31" Samples="2" Instances="2">
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x018004F7" FQN="qjnsp.tmkyx" TotalTime="313" OwnTime="30" Samples="9" Instances="2">
+    <Instance TotalTime="282" OwnTime="30" Samples="8" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x018005F2" FQN="qjnsp.tmkyy" TotalTime="1143" OwnTime="0" Samples="35" Instances="2">
+    <Instance TotalTime="657" OwnTime="0" Samples="20" />
+    <Instance TotalTime="486" OwnTime="0" Samples="15" />
+  </Function>
+  <Function Id="0x0180045D" FQN="qjnsp.tmkzd" TotalTime="447" OwnTime="415" Samples="13" Instances="2">
+    <Instance TotalTime="165" OwnTime="133" Samples="5" />
+    <Instance TotalTime="282" OwnTime="282" Samples="8" />
+  </Function>
+  <Function Id="0x01800520" FQN="qjnsp.tmkzy" TotalTime="83" OwnTime="50" Samples="2" Instances="1" />
+  <Function Id="0x0180051D" FQN="qjnsp.tmkzy" TotalTime="61" OwnTime="31" Samples="2" Instances="1" />
+  <Function Id="0x0180048E" FQN="qjnsp.tmvrt" TotalTime="8082" OwnTime="5202" Samples="240" Instances="1" />
+  <Function Id="0x018004E3" FQN="qjnsp.tmvss" TotalTime="64" OwnTime="64" Samples="2" Instances="1" />
+  <Function Id="0x018004DF" FQN="qjnsp.tmvss" TotalTime="64" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x018004F8" FQN="qjnsp.tmvuj" TotalTime="236" OwnTime="32" Samples="7" Instances="2">
+    <Instance TotalTime="108" OwnTime="0" Samples="3" />
+    <Instance TotalTime="128" OwnTime="32" Samples="4" />
+  </Function>
+  <Function Id="0x01800536" FQN="qjnsp.tmvut" TotalTime="256" OwnTime="129" Samples="8" Instances="1" />
+  <Function Id="0x01800489" FQN="qjnsp.tmvuv" TotalTime="2112" OwnTime="1907" Samples="63" Instances="1" />
+  <Function Id="0x018005ED" FQN="qjnsp.tmvux" TotalTime="3800" OwnTime="1671" Samples="112" Instances="5">
+    <Instance TotalTime="1098" OwnTime="520" Samples="32" />
+    <Instance TotalTime="434" OwnTime="219" Samples="13" />
+    <Instance TotalTime="693" OwnTime="268" Samples="20" />
+    <Instance TotalTime="420" OwnTime="158" Samples="13" />
+    <Instance TotalTime="1155" OwnTime="506" Samples="34" />
+  </Function>
+  <Function Id="0x01800407" FQN="qjnsp.tmvwe" TotalTime="63" OwnTime="32" Samples="2" Instances="1" />
+  <Function Id="0x0180056A" FQN="qjnsp.UpdateCpuWritableBuffer" TotalTime="1190" OwnTime="1190" Samples="36" Instances="12">
+    <Instance TotalTime="191" OwnTime="191" Samples="6" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="34" OwnTime="34" Samples="1" />
+    <Instance TotalTime="252" OwnTime="252" Samples="7" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="77" OwnTime="77" Samples="2" />
+    <Instance TotalTime="64" OwnTime="64" Samples="2" />
+    <Instance TotalTime="222" OwnTime="222" Samples="7" />
+    <Instance TotalTime="163" OwnTime="163" Samples="5" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="61" OwnTime="61" Samples="2" />
+  </Function>
+  <Function Id="0x0180061A" FQN="qjnsp+cxqkc.tmjqw" TotalTime="1409986" OwnTime="0" Samples="41704" Instances="1" />
+  <Function Id="0x01800692" FQN="qjnst.GetHashCode" TotalTime="96" OwnTime="31" Samples="3" Instances="3">
+    <Instance TotalTime="34" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x01800694" FQN="qjnst.tmjvd" TotalTime="50" OwnTime="50" Samples="1" Instances="1" />
+  <Function Id="0x01800EB6" FQN="qjnyo.tmley" TotalTime="49" OwnTime="49" Samples="1" Instances="1" />
+  <Function Id="0x01800F7A" FQN="qjnzs.tmlmy" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x01801AF6" FQN="qjoay.MoveNext" TotalTime="37" OwnTime="37" Samples="1" Instances="1" />
+  <Function Id="0x01804A41" FQN="qjoep.tmvqi" TotalTime="126" OwnTime="63" Samples="4" Instances="3">
+    <Instance TotalTime="64" OwnTime="32" Samples="2" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x08B010D8" FQN="Quartz.Core.JobRunShell+&lt;Run&gt;d__10.MoveNext" TotalTime="1989" OwnTime="0" Samples="56" Instances="1" />
+  <Function Id="0x08B00D1B" FQN="Quartz.Core.QuartzSchedulerThread.Run" TotalTime="30018" OwnTime="0" Samples="573" Instances="1" />
+  <Function Id="0x08B01162" FQN="Quartz.Core.QuartzSchedulerThread+&lt;Run&gt;d__28.MoveNext" TotalTime="30018" OwnTime="27984" Samples="573" Instances="1" />
+  <Function Id="0x13100DAA" FQN="Renci.SshNet.Abstractions.SocketAbstraction.Read" TotalTime="35" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x13100044" FQN="Renci.SshNet.BaseClient.Connect" TotalTime="667" OwnTime="0" Samples="19" Instances="1" />
+  <Function Id="0x13100056" FQN="Renci.SshNet.BaseClient.CreateAndConnectSession" TotalTime="667" OwnTime="0" Samples="19" Instances="1" />
+  <Function Id="0x13100058" FQN="Renci.SshNet.BaseClient.DisposeSession" TotalTime="35" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x13100D47" FQN="Renci.SshNet.Channels.ChannelSession.Open" TotalTime="710" OwnTime="0" Samples="19" Instances="1" />
+  <Function Id="0x13100065" FQN="Renci.SshNet.ClientAuthentication.Authenticate" TotalTime="423" OwnTime="0" Samples="12" Instances="1" />
+  <Function Id="0x13100066" FQN="Renci.SshNet.ClientAuthentication.TryAuthenticate" TotalTime="346" OwnTime="0" Samples="10" Instances="1" />
+  <Function Id="0x13100BC4" FQN="Renci.SshNet.Connection.ProtocolVersionExchange.Start" TotalTime="35" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x13100236" FQN="Renci.SshNet.NoneAuthenticationMethod.Authenticate" TotalTime="77" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x13100260" FQN="Renci.SshNet.PrivateKeyAuthenticationMethod.Authenticate" TotalTime="346" OwnTime="0" Samples="10" Instances="1" />
+  <Function Id="0x13100325" FQN="Renci.SshNet.Session.Connect" TotalTime="667" OwnTime="0" Samples="19" Instances="1" />
+  <Function Id="0x13100366" FQN="Renci.SshNet.Session.Dispose" TotalTime="35" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x13100360" FQN="Renci.SshNet.Session.MessageListener" TotalTime="1687" OwnTime="0" Samples="50" Instances="1" />
+  <Function Id="0x1310035F" FQN="Renci.SshNet.Session.SocketDisconnectAndDispose" TotalTime="35" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x1310032F" FQN="Renci.SshNet.Session.WaitOnHandle" TotalTime="1169" OwnTime="0" Samples="32" Instances="4">
+    <Instance TotalTime="36" OwnTime="0" Samples="1" />
+    <Instance TotalTime="710" OwnTime="0" Samples="19" />
+    <Instance TotalTime="77" OwnTime="0" Samples="2" />
+    <Instance TotalTime="346" OwnTime="0" Samples="10" />
+  </Function>
+  <Function Id="0x13100451" FQN="Renci.SshNet.SshCommand.ExecuteAsync" TotalTime="710" OwnTime="0" Samples="19" Instances="1" />
+  <Function Id="0x0AE00005" FQN="Serilog.Sinks.Async.BackgroundWorkerSink.Pump" TotalTime="60013" OwnTime="0" Samples="1041" Instances="1" />
+  <Function Id="0x01A0003D" FQN="SharpDX.ComObject.Dispose" TotalTime="254" OwnTime="65" Samples="8" Instances="7">
+    <Instance TotalTime="33" OwnTime="33" Samples="1" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+    <Instance TotalTime="63" OwnTime="31" Samples="2" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="35" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x01A0003C" FQN="SharpDX.ComObject.Release" TotalTime="189" OwnTime="189" Samples="6" Instances="6">
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="35" OwnTime="35" Samples="1" />
+  </Function>
+  <Function Id="0x01A0006A" FQN="SharpDX.CppObject.ToCallbackPtr" TotalTime="190" OwnTime="32" Samples="6" Instances="2">
+    <Instance TotalTime="157" OwnTime="32" Samples="5" />
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x01A01577" FQN="SharpDX.Direct3D11.DeviceContext.GetData" TotalTime="2607" OwnTime="2450" Samples="76" Instances="1" />
+  <Function Id="0x01A017EC" FQN="SharpDX.Direct3D11.GeometryShaderStage.SetConstantBuffers" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x01A015CF" FQN="SharpDX.Direct3D11.InputAssemblerStage.SetInputLayout" TotalTime="33" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x01A000D6" FQN="SharpDX.DisposeBase.CheckAndDispose" TotalTime="95" OwnTime="0" Samples="3" Instances="3">
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x01A0263E" FQN="SharpDX.Matrix.RotationZ" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00100224" FQN="System.Array.Copy" TotalTime="70" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="39" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00100204" FQN="System.Array.CopyImpl" TotalTime="70" OwnTime="70" Samples="2" Instances="2">
+    <Instance TotalTime="39" OwnTime="39" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x00100267" FQN="System.Array.IndexOf" TotalTime="33" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0010021A" FQN="System.Array.Resize" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x00100280" FQN="System.Array.Sort" TotalTime="66" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x001002FD" FQN="System.Buffer.Memmove" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x0010816D" FQN="System.Collections.ArrayList.InsertRange" TotalTime="70" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="39" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x05600048" FQN="System.Collections.Concurrent.BlockingCollection`1.TryTakeWithNoTimeValidation" TotalTime="60013" OwnTime="0" Samples="1041" Instances="1" />
+  <Function Id="0x0560006D" FQN="System.Collections.Concurrent.BlockingCollection+&lt;GetConsumingEnumerable&gt;d__68`1.MoveNext" TotalTime="60013" OwnTime="0" Samples="1041" Instances="1" />
+  <Function Id="0x056000B6" FQN="System.Collections.Concurrent.ConcurrentDictionary`2.TryRemoveInternal" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x001083FA" FQN="System.Collections.Concurrent.ConcurrentQueue`1.Enqueue" TotalTime="36" OwnTime="36" Samples="1" Instances="1" />
+  <Function Id="0x0010840B" FQN="System.Collections.Concurrent.ConcurrentQueueSegment`1.TryDequeue" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x0010843E" FQN="System.Collections.Generic.ArraySortHelper`1.IntroSort" TotalTime="34" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0010843F" FQN="System.Collections.Generic.ArraySortHelper`1.PickPivotAndPartition" TotalTime="34" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00108437" FQN="System.Collections.Generic.ArraySortHelper`1.Sort" TotalTime="66" OwnTime="32" Samples="2" Instances="1" />
+  <Function Id="0x001084EA" FQN="System.Collections.Generic.Dictionary`2.FindValue" TotalTime="253" OwnTime="126" Samples="8" Instances="4">
+    <Instance TotalTime="159" OwnTime="32" Samples="5" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x001084EC" FQN="System.Collections.Generic.Dictionary`2.TryInsert" TotalTime="38" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00108479" FQN="System.Collections.Generic.EqualityComparer`1.get_Default" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x001085CE" FQN="System.Collections.Generic.List`1..ctor" TotalTime="66" OwnTime="66" Samples="2" Instances="1" />
+  <Function Id="0x001085CD" FQN="System.Collections.Generic.List`1..ctor" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x001085CC" FQN="System.Collections.Generic.List`1..ctor" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x001085DF" FQN="System.Collections.Generic.List`1.AddRange" TotalTime="182" OwnTime="0" Samples="5" Instances="4">
+    <Instance TotalTime="46" OwnTime="0" Samples="1" />
+    <Instance TotalTime="37" OwnTime="0" Samples="1" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+    <Instance TotalTime="68" OwnTime="0" Samples="2" />
+  </Function>
+  <Function Id="0x001085DD" FQN="System.Collections.Generic.List`1.AddWithResize" TotalTime="162" OwnTime="34" Samples="5" Instances="3">
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+    <Instance TotalTime="63" OwnTime="0" Samples="2" />
+    <Instance TotalTime="34" OwnTime="34" Samples="1" />
+  </Function>
+  <Function Id="0x001085EB" FQN="System.Collections.Generic.List`1.CopyTo" TotalTime="30" OwnTime="30" Samples="1" Instances="1" />
+  <Function Id="0x001085D7" FQN="System.Collections.Generic.List`1.get_Item" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x001085FA" FQN="System.Collections.Generic.List`1.GetEnumerator" TotalTime="193" OwnTime="193" Samples="5" Instances="4">
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="43" OwnTime="43" Samples="1" />
+    <Instance TotalTime="68" OwnTime="68" Samples="2" />
+    <Instance TotalTime="51" OwnTime="51" Samples="1" />
+  </Function>
+  <Function Id="0x001085D0" FQN="System.Collections.Generic.List`1.set_Capacity" TotalTime="128" OwnTime="128" Samples="4" Instances="2">
+    <Instance TotalTime="64" OwnTime="64" Samples="2" />
+    <Instance TotalTime="63" OwnTime="63" Samples="2" />
+  </Function>
+  <Function Id="0x00108611" FQN="System.Collections.Generic.List`1.Sort" TotalTime="66" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x00108619" FQN="System.Collections.Generic.List+Enumerator`1.MoveNext" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00108498" FQN="System.Collections.Generic.ObjectEqualityComparer`1.Equals" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00108499" FQN="System.Collections.Generic.ObjectEqualityComparer`1.GetHashCode" TotalTime="134" OwnTime="0" Samples="4" Instances="2">
+    <Instance TotalTime="96" OwnTime="0" Samples="3" />
+    <Instance TotalTime="38" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x001082C8" FQN="System.Collections.Hashtable.get_Item" TotalTime="64" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00400CE4" FQN="System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged" TotalTime="174" OwnTime="0" Samples="5" Instances="1" />
+  <Function Id="0x02B001B9" FQN="System.Configuration.ApplicationSettingsBase.get_Item" TotalTime="96" OwnTime="0" Samples="3" Instances="2">
+    <Instance TotalTime="65" OwnTime="0" Samples="2" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x02B001A4" FQN="System.Configuration.ApplicationSettingsBase.get_Properties" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x02B007B7" FQN="System.Configuration.SettingsBase.get_Item" TotalTime="64" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x02B007B9" FQN="System.Configuration.SettingsBase.GetPropertyValueByName" TotalTime="64" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x001021F9" FQN="System.CultureAwareComparer.Equals" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x001021FA" FQN="System.CultureAwareComparer.GetHashCode" TotalTime="33" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00100405" FQN="System.Decimal+DecCalc.VarDecFromR8" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x0010041E" FQN="System.Delegate.DynamicInvokeImpl" TotalTime="30016" OwnTime="0" Samples="882" Instances="1" />
+  <Function Id="0x00107B5A" FQN="System.Diagnostics.StackFrameHelper.InitializeSourceInfo" TotalTime="830" OwnTime="830" Samples="25" Instances="1" />
+  <Function Id="0x00107B6A" FQN="System.Diagnostics.StackTrace..ctor" TotalTime="1063" OwnTime="0" Samples="32" Instances="1" />
+  <Function Id="0x00107B69" FQN="System.Diagnostics.StackTrace.CaptureStackTrace" TotalTime="1063" OwnTime="32" Samples="32" Instances="1" />
+  <Function Id="0x00107B7A" FQN="System.Diagnostics.StackTrace.ShowInStackTrace" TotalTime="451" OwnTime="130" Samples="14" Instances="1" />
+  <Function Id="0x00107B79" FQN="System.Diagnostics.StackTrace.ToString" TotalTime="1045" OwnTime="293" Samples="32" Instances="1" />
+  <Function Id="0x0010047A" FQN="System.Enum.GetValue" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x00102DBB" FQN="System.Globalization.CompareInfo.Compare" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00102DB5" FQN="System.Globalization.CompareInfo.Compare" TotalTime="32" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00102DF3" FQN="System.Globalization.CompareInfo.GetHashCode" TotalTime="33" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00102E08" FQN="System.Globalization.CompareInfo.IcuGetHashCodeOfString" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x00102DC0" FQN="System.Globalization.CompareInfo.IsPrefix" TotalTime="1506" OwnTime="0" Samples="45" Instances="5">
+    <Instance TotalTime="346" OwnTime="0" Samples="10" />
+    <Instance TotalTime="165" OwnTime="0" Samples="5" />
+    <Instance TotalTime="293" OwnTime="0" Samples="9" />
+    <Instance TotalTime="262" OwnTime="0" Samples="8" />
+    <Instance TotalTime="441" OwnTime="0" Samples="13" />
+  </Function>
+  <Function Id="0x00102EDF" FQN="System.Globalization.CultureInfo.get_CurrentCulture" TotalTime="100" OwnTime="100" Samples="3" Instances="3">
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+    <Instance TotalTime="39" OwnTime="39" Samples="1" />
+  </Function>
+  <Function Id="0x00103191" FQN="System.Globalization.NumberFormatInfo.get_CurrentInfo" TotalTime="69" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+    <Instance TotalTime="39" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x01200141" FQN="System.Linq.Enumerable.ToDictionary" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x01200087" FQN="System.Linq.Enumerable.TryGetFirst" TotalTime="244" OwnTime="128" Samples="7" Instances="4">
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+    <Instance TotalTime="97" OwnTime="66" Samples="3" />
+    <Instance TotalTime="83" OwnTime="32" Samples="2" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x012000A2" FQN="System.Linq.Enumerable.TryGetLast" TotalTime="30" OwnTime="30" Samples="1" Instances="1" />
+  <Function Id="0x138004A7" FQN="System.Management.ManagementObjectCollection+ManagementObjectEnumerator.MoveNext" TotalTime="5583" OwnTime="5583" Samples="151" Instances="2">
+    <Instance TotalTime="5385" OwnTime="5385" Samples="145" />
+    <Instance TotalTime="198" OwnTime="198" Samples="6" />
+  </Function>
+  <Function Id="0x001017BA" FQN="System.Marvin.ComputeHash32" TotalTime="136" OwnTime="136" Samples="4" Instances="3">
+    <Instance TotalTime="65" OwnTime="65" Samples="2" />
+    <Instance TotalTime="38" OwnTime="38" Samples="1" />
+    <Instance TotalTime="34" OwnTime="34" Samples="1" />
+  </Function>
+  <Function Id="0x001005EB" FQN="System.Math.Round" TotalTime="48" OwnTime="48" Samples="1" Instances="1" />
+  <Function Id="0x0010072D" FQN="System.ModuleHandle.ResolveType" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x0010072C" FQN="System.ModuleHandle.ResolveTypeHandle" TotalTime="33" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00100638" FQN="System.MulticastDelegate.RemoveImpl" TotalTime="43" OwnTime="43" Samples="1" Instances="1" />
+  <Function Id="0x0E60022B" FQN="System.Net.Sockets.Socket.Dispose" TotalTime="35" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0E6001CA" FQN="System.Net.Sockets.Socket.Receive" TotalTime="35" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0E60045C" FQN="System.Net.Sockets.SocketPal.Poll" TotalTime="1687" OwnTime="1687" Samples="50" Instances="1" />
+  <Function Id="0x0010191C" FQN="System.Number.Dragon4" TotalTime="221" OwnTime="62" Samples="7" Instances="4">
+    <Instance TotalTime="126" OwnTime="30" Samples="4" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x0010197C" FQN="System.Number.FindSection" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00101923" FQN="System.Number.FormatDouble" TotalTime="708" OwnTime="89" Samples="21" Instances="7">
+    <Instance TotalTime="255" OwnTime="0" Samples="8" />
+    <Instance TotalTime="63" OwnTime="0" Samples="2" />
+    <Instance TotalTime="63" OwnTime="0" Samples="2" />
+    <Instance TotalTime="37" OwnTime="0" Samples="1" />
+    <Instance TotalTime="68" OwnTime="32" Samples="2" />
+    <Instance TotalTime="120" OwnTime="57" Samples="3" />
+    <Instance TotalTime="102" OwnTime="0" Samples="3" />
+  </Function>
+  <Function Id="0x00101920" FQN="System.Number.FormatDouble" TotalTime="858" OwnTime="0" Samples="25" Instances="7">
+    <Instance TotalTime="309" OwnTime="0" Samples="9" />
+    <Instance TotalTime="63" OwnTime="0" Samples="2" />
+    <Instance TotalTime="127" OwnTime="0" Samples="4" />
+    <Instance TotalTime="37" OwnTime="0" Samples="1" />
+    <Instance TotalTime="100" OwnTime="0" Samples="3" />
+    <Instance TotalTime="120" OwnTime="0" Samples="3" />
+    <Instance TotalTime="102" OwnTime="0" Samples="3" />
+  </Function>
+  <Function Id="0x00101979" FQN="System.Number.FormatGeneral" TotalTime="41" OwnTime="41" Samples="1" Instances="1" />
+  <Function Id="0x00101988" FQN="System.Number.NumberToFloatingPointBits" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00101971" FQN="System.Number.NumberToString" TotalTime="41" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00101972" FQN="System.Number.NumberToStringFormat" TotalTime="166" OwnTime="102" Samples="5" Instances="4">
+    <Instance TotalTime="66" OwnTime="34" Samples="2" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="37" OwnTime="37" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00101970" FQN="System.Number.ParseFormatSpecifier" TotalTime="30" OwnTime="30" Samples="1" Instances="1" />
+  <Function Id="0x0010197B" FQN="System.Number.RoundNumber" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x0010199F" FQN="System.Number.TryParseFloat" TotalTime="63" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00101991" FQN="System.Number.TryParseNumber" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x001019C5" FQN="System.Number+BigInteger.HeuristicDivide" TotalTime="94" OwnTime="94" Samples="3" Instances="3">
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x001019C6" FQN="System.Number+BigInteger.Multiply" TotalTime="34" OwnTime="34" Samples="1" Instances="1" />
+  <Function Id="0x001019D5" FQN="System.Number+BigInteger.SetUInt32" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x001019E5" FQN="System.Number+DiyFp.Multiply" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x001019F3" FQN="System.Number+Grisu3.TryDigitGenCounted" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x001019ED" FQN="System.Number+Grisu3.TryRunDouble" TotalTime="161" OwnTime="98" Samples="5" Instances="4">
+    <Instance TotalTime="63" OwnTime="32" Samples="2" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="36" OwnTime="36" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x00101B22" FQN="System.ReadOnlySpan`1.ToString" TotalTime="150" OwnTime="0" Samples="4" Instances="3">
+    <Instance TotalTime="54" OwnTime="0" Samples="1" />
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x001069FE" FQN="System.Reflection.CustomAttribute.FilterCustomAttributeRecord" TotalTime="98" OwnTime="64" Samples="3" Instances="2">
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+    <Instance TotalTime="64" OwnTime="64" Samples="2" />
+  </Function>
+  <Function Id="0x001069FB" FQN="System.Reflection.CustomAttribute.IsCustomAttributeDefined" TotalTime="388" OwnTime="290" Samples="12" Instances="2">
+    <Instance TotalTime="67" OwnTime="34" Samples="2" />
+    <Instance TotalTime="321" OwnTime="256" Samples="10" />
+  </Function>
+  <Function Id="0x001068A4" FQN="System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs" TotalTime="30016" OwnTime="0" Samples="882" Instances="1" />
+  <Function Id="0x001068A2" FQN="System.Reflection.MethodBaseInvoker.InvokeWithOneArg" TotalTime="31175" OwnTime="0" Samples="916" Instances="2">
+    <Instance TotalTime="1159" OwnTime="0" Samples="34" />
+    <Instance TotalTime="30016" OwnTime="0" Samples="882" />
+  </Function>
+  <Function Id="0x00106A91" FQN="System.Reflection.RuntimeMethodInfo.Invoke" TotalTime="43" OwnTime="43" Samples="1" Instances="1" />
+  <Function Id="0x00106A9E" FQN="System.Reflection.RuntimeModule.ResolveType" TotalTime="33" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x001066A8" FQN="System.Resources.ResourceManager.GetFirstResourceSet" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x001066B0" FQN="System.Resources.ResourceManager.GetString" TotalTime="110" OwnTime="46" Samples="3" Instances="1" />
+  <Function Id="0x00106718" FQN="System.Resources.RuntimeResourceSet.GetObject" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0010646E" FQN="System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start" TotalTime="62026" OwnTime="0" Samples="1216" Instances="3">
+    <Instance TotalTime="1989" OwnTime="0" Samples="56" />
+    <Instance TotalTime="30019" OwnTime="0" Samples="587" />
+    <Instance TotalTime="30018" OwnTime="0" Samples="573" />
+  </Function>
+  <Function Id="0x00106479" FQN="System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start" TotalTime="30018" OwnTime="0" Samples="573" Instances="1" />
+  <Function Id="0x001064A0" FQN="System.Runtime.CompilerServices.AsyncTaskMethodBuilder+AsyncStateMachineBox`2.MoveNext" TotalTime="5678" OwnTime="0" Samples="154" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="5646" OwnTime="0" Samples="153" />
+  </Function>
+  <Function Id="0x001064B9" FQN="System.Runtime.CompilerServices.AsyncVoidMethodBuilder.Start" TotalTime="30019" OwnTime="0" Samples="587" Instances="1" />
+  <Function Id="0x0010640B" FQN="System.Runtime.CompilerServices.CastHelpers.ChkCastClassSpecial" TotalTime="62" OwnTime="62" Samples="2" Instances="2">
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x00106409" FQN="System.Runtime.CompilerServices.CastHelpers.ChkCastInterface" TotalTime="82" OwnTime="82" Samples="2" Instances="1" />
+  <Function Id="0x00106405" FQN="System.Runtime.CompilerServices.CastHelpers.IsInstanceOfClass" TotalTime="716" OwnTime="716" Samples="22" Instances="15">
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="34" OwnTime="34" Samples="1" />
+    <Instance TotalTime="154" OwnTime="154" Samples="5" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="125" OwnTime="125" Samples="4" />
+    <Instance TotalTime="44" OwnTime="44" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="39" OwnTime="39" Samples="1" />
+    <Instance TotalTime="40" OwnTime="40" Samples="1" />
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+    <Instance TotalTime="33" OwnTime="33" Samples="1" />
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+  </Function>
+  <Function Id="0x00106404" FQN="System.Runtime.CompilerServices.CastHelpers.IsInstanceOfInterface" TotalTime="157" OwnTime="157" Samples="5" Instances="4">
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="62" OwnTime="62" Samples="2" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+  </Function>
+  <Function Id="0x0010640F" FQN="System.Runtime.CompilerServices.CastHelpers.StelemRef" TotalTime="38" OwnTime="38" Samples="1" Instances="1" />
+  <Function Id="0x00106410" FQN="System.Runtime.CompilerServices.CastHelpers.StelemRef_Helper" TotalTime="30" OwnTime="30" Samples="1" Instances="1" />
+  <Function Id="0x001065E7" FQN="System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification" TotalTime="30569" OwnTime="0" Samples="248" Instances="2">
+    <Instance TotalTime="29993" OwnTime="0" Samples="231" />
+    <Instance TotalTime="577" OwnTime="0" Samples="17" />
+  </Function>
+  <Function Id="0x00100804" FQN="System.RuntimeType.CheckValue" TotalTime="50" OwnTime="50" Samples="1" Instances="1" />
+  <Function Id="0x001007A7" FQN="System.RuntimeType.get_IsGenericTypeDefinition" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x001007C3" FQN="System.RuntimeType.GetCachedName" TotalTime="123" OwnTime="92" Samples="4" Instances="1" />
+  <Function Id="0x0010075C" FQN="System.RuntimeType.GetMethodBase" TotalTime="329" OwnTime="287" Samples="10" Instances="2">
+    <Instance TotalTime="127" OwnTime="127" Samples="4" />
+    <Instance TotalTime="201" OwnTime="159" Samples="6" />
+  </Function>
+  <Function Id="0x0010081D" FQN="System.RuntimeType+RuntimeTypeCache.GetName" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00100839" FQN="System.RuntimeType+RuntimeTypeCache+MemberInfoCache`1.AddMethod" TotalTime="42" OwnTime="42" Samples="1" Instances="1" />
+  <Function Id="0x00101D69" FQN="System.SR.GetResourceString" TotalTime="110" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x00101D67" FQN="System.SR.InternalGetResourceString" TotalTime="110" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x001008A5" FQN="System.String.Ctor" TotalTime="150" OwnTime="118" Samples="4" Instances="3">
+    <Instance TotalTime="54" OwnTime="54" Samples="1" />
+    <Instance TotalTime="64" OwnTime="32" Samples="2" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+  </Function>
+  <Function Id="0x001008F3" FQN="System.String.FormatHelper" TotalTime="64" OwnTime="0" Samples="2" Instances="1" />
+  <Function Id="0x0010088D" FQN="System.String.StartsWith" TotalTime="1506" OwnTime="0" Samples="45" Instances="5">
+    <Instance TotalTime="346" OwnTime="0" Samples="10" />
+    <Instance TotalTime="165" OwnTime="0" Samples="5" />
+    <Instance TotalTime="293" OwnTime="0" Samples="9" />
+    <Instance TotalTime="262" OwnTime="0" Samples="8" />
+    <Instance TotalTime="441" OwnTime="0" Samples="13" />
+  </Function>
+  <Function Id="0x001002A4" FQN="System.SZArrayHelper.CopyTo" TotalTime="78" OwnTime="78" Samples="2" Instances="2">
+    <Instance TotalTime="46" OwnTime="46" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+  </Function>
+  <Function Id="0x001002A5" FQN="System.SZArrayHelper.get_Count" TotalTime="37" OwnTime="37" Samples="1" Instances="1" />
+  <Function Id="0x00104338" FQN="System.Text.ValueStringBuilder.AppendFormatHelper" TotalTime="64" OwnTime="31" Samples="2" Instances="1" />
+  <Function Id="0x0010434F" FQN="System.Text.ValueStringBuilder.Grow" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00103817" FQN="System.Threading.ExecutionContext.OnValuesChanged" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00103813" FQN="System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop" TotalTime="62026" OwnTime="0" Samples="1216" Instances="1" />
+  <Function Id="0x00103810" FQN="System.Threading.ExecutionContext.RunInternal" TotalTime="10925117" OwnTime="0" Samples="319433" Instances="6">
+    <Instance TotalTime="10502199" OwnTime="0" Samples="311205" />
+    <Instance TotalTime="391713" OwnTime="0" Samples="7266" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="5646" OwnTime="0" Samples="153" />
+    <Instance TotalTime="1558" OwnTime="0" Samples="46" />
+    <Instance TotalTime="25528" OwnTime="0" Samples="762" />
+  </Function>
+  <Function Id="0x0010381A" FQN="System.Threading.ExecutionContext.SetLocalValue" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x00103B6F" FQN="System.Threading.LowLevelLifoSemaphore.Wait" TotalTime="292337" OwnTime="0" Samples="8372" Instances="1" />
+  <Function Id="0x00103B70" FQN="System.Threading.LowLevelLifoSemaphore.WaitForSignal" TotalTime="292337" OwnTime="292337" Samples="8372" Instances="1" />
+  <Function Id="0x0010386D" FQN="System.Threading.ManualResetEventSlim.Wait" TotalTime="60564" OwnTime="60564" Samples="864" Instances="3">
+    <Instance TotalTime="29995" OwnTime="29995" Samples="616" />
+    <Instance TotalTime="29993" OwnTime="29993" Samples="231" />
+    <Instance TotalTime="577" OwnTime="577" Samples="17" />
+  </Function>
+  <Function Id="0x0010386A" FQN="System.Threading.ManualResetEventSlim.Wait" TotalTime="29995" OwnTime="0" Samples="616" Instances="1" />
+  <Function Id="0x00103645" FQN="System.Threading.Monitor.Wait" TotalTime="32029" OwnTime="32029" Samples="517" Instances="2">
+    <Instance TotalTime="29995" OwnTime="29995" Samples="458" />
+    <Instance TotalTime="2034" OwnTime="2034" Samples="59" />
+  </Function>
+  <Function Id="0x00103B6D" FQN="System.Threading.PortableThreadPool+CpuUtilizationReader.get_CurrentUtilization" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x00103B13" FQN="System.Threading.PortableThreadPool+GateThread.GateThreadStart" TotalTime="30018" OwnTime="0" Samples="788" Instances="1" />
+  <Function Id="0x00103B32" FQN="System.Threading.PortableThreadPool+IOCompletionPoller.Poll" TotalTime="60037" OwnTime="60037" Samples="1755" Instances="1" />
+  <Function Id="0x00103B59" FQN="System.Threading.PortableThreadPool+WorkerThread.WorkerThreadStart" TotalTime="360041" OwnTime="0" Samples="9742" Instances="1" />
+  <Function Id="0x001038F8" FQN="System.Threading.SemaphoreSlim.Wait" TotalTime="60013" OwnTime="0" Samples="1041" Instances="1" />
+  <Function Id="0x001038F9" FQN="System.Threading.SemaphoreSlim.WaitUntilCountOrTimeout" TotalTime="60013" OwnTime="30018" Samples="1041" Instances="1" />
+  <Function Id="0x00103917" FQN="System.Threading.SpinLock.ContinueTryEnter" TotalTime="174" OwnTime="49" Samples="5" Instances="3">
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="113" OwnTime="49" Samples="3" />
+  </Function>
+  <Function Id="0x00103929" FQN="System.Threading.SpinWait.SpinOnceCore" TotalTime="125" OwnTime="125" Samples="4" Instances="3">
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="64" OwnTime="64" Samples="2" />
+  </Function>
+  <Function Id="0x00103DEE" FQN="System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction" TotalTime="5678" OwnTime="0" Samples="154" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="5646" OwnTime="0" Samples="153" />
+  </Function>
+  <Function Id="0x00103CC9" FQN="System.Threading.Tasks.Task.ExecuteWithThreadLocal" TotalTime="453739" OwnTime="0" Samples="8482" Instances="2">
+    <Instance TotalTime="391713" OwnTime="0" Samples="7266" />
+    <Instance TotalTime="62026" OwnTime="0" Samples="1216" />
+  </Function>
+  <Function Id="0x00103CE0" FQN="System.Threading.Tasks.Task.InternalWaitCore" TotalTime="30569" OwnTime="0" Samples="248" Instances="2">
+    <Instance TotalTime="29993" OwnTime="0" Samples="231" />
+    <Instance TotalTime="577" OwnTime="0" Samples="17" />
+  </Function>
+  <Function Id="0x00103CEE" FQN="System.Threading.Tasks.Task.RunContinuations" TotalTime="5678" OwnTime="0" Samples="154" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="5646" OwnTime="0" Samples="153" />
+  </Function>
+  <Function Id="0x00103CB2" FQN="System.Threading.Tasks.Task.ScheduleAndStart" TotalTime="174" OwnTime="0" Samples="5" Instances="1" />
+  <Function Id="0x00103CE1" FQN="System.Threading.Tasks.Task.SpinThenBlockingWait" TotalTime="30569" OwnTime="0" Samples="248" Instances="2">
+    <Instance TotalTime="29993" OwnTime="0" Samples="231" />
+    <Instance TotalTime="577" OwnTime="0" Samples="17" />
+  </Function>
+  <Function Id="0x00103BE6" FQN="System.Threading.Tasks.Task`1.InnerInvoke" TotalTime="32007" OwnTime="0" Samples="629" Instances="1" />
+  <Function Id="0x00103D5E" FQN="System.Threading.Tasks.Task+DelayPromise.CompleteTimedOut" TotalTime="5678" OwnTime="0" Samples="154" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="5646" OwnTime="0" Samples="153" />
+  </Function>
+  <Function Id="0x001036A6" FQN="System.Threading.Thread.set_Name" TotalTime="174" OwnTime="174" Samples="5" Instances="1" />
+  <Function Id="0x001036A2" FQN="System.Threading.Thread.Sleep" TotalTime="119883" OwnTime="119781" Samples="3282" Instances="4">
+    <Instance TotalTime="29993" OwnTime="29993" Samples="610" />
+    <Instance TotalTime="29881" OwnTime="29823" Samples="893" />
+    <Instance TotalTime="29993" OwnTime="29948" Samples="897" />
+    <Instance TotalTime="30016" OwnTime="30016" Samples="882" />
+  </Function>
+  <Function Id="0x00103989" FQN="System.Threading.ThreadPoolWorkQueue.Dispatch" TotalTime="67704" OwnTime="0" Samples="1370" Instances="1" />
+  <Function Id="0x001039EB" FQN="System.Threading.TimerQueue.FireNextTimers" TotalTime="5646" OwnTime="0" Samples="153" Instances="1" />
+  <Function Id="0x001039F5" FQN="System.Threading.TimerQueue.TimerThread" TotalTime="30018" OwnTime="0" Samples="897" Instances="1" />
+  <Function Id="0x00103A11" FQN="System.Threading.TimerQueueTimer.Fire" TotalTime="5678" OwnTime="0" Samples="154" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="5646" OwnTime="0" Samples="153" />
+  </Function>
+  <Function Id="0x00103747" FQN="System.Threading.WaitHandle.WaitMultiple" TotalTime="1169" OwnTime="1169" Samples="32" Instances="4">
+    <Instance TotalTime="36" OwnTime="36" Samples="1" />
+    <Instance TotalTime="710" OwnTime="710" Samples="19" />
+    <Instance TotalTime="77" OwnTime="77" Samples="2" />
+    <Instance TotalTime="346" OwnTime="346" Samples="10" />
+  </Function>
+  <Function Id="0x00103741" FQN="System.Threading.WaitHandle.WaitOne" TotalTime="29002" OwnTime="32" Samples="867" Instances="1" />
+  <Function Id="0x00103742" FQN="System.Threading.WaitHandle.WaitOneNoCheck" TotalTime="9268671" OwnTime="9268641" Samples="272746" Instances="6">
+    <Instance TotalTime="29985" OwnTime="29985" Samples="787" />
+    <Instance TotalTime="30018" OwnTime="30018" Samples="897" />
+    <Instance TotalTime="8969808" OwnTime="8969808" Samples="266946" />
+    <Instance TotalTime="209861" OwnTime="209861" Samples="3249" />
+    <Instance TotalTime="28970" OwnTime="28970" Samples="866" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x001028CE" FQN="System.WeakReference.get_Target" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00302515" FQN="System.Windows.Application.RunDispatcher" TotalTime="30021" OwnTime="0" Samples="897" Instances="1" />
+  <Function Id="0x003024E9" FQN="System.Windows.Application.RunInternal" TotalTime="30021" OwnTime="0" Samples="897" Instances="1" />
+  <Function Id="0x00303B52" FQN="System.Windows.Data.BindingExpression.TransferValue" TotalTime="143" OwnTime="0" Samples="4" Instances="1" />
+  <Function Id="0x00400D6F" FQN="System.Windows.DependencyObject.GetEffectiveValue" TotalTime="61" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00400D6E" FQN="System.Windows.DependencyObject.GetValueEntry" TotalTime="92" OwnTime="31" Samples="3" Instances="3">
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00400D88" FQN="System.Windows.DependencyObject.InvalidateSubProperty" TotalTime="193" OwnTime="33" Samples="6" Instances="4">
+    <Instance TotalTime="64" OwnTime="33" Samples="2" />
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00400DD3" FQN="System.Windows.DependencyObject.LookupEntry" TotalTime="223" OwnTime="223" Samples="7" Instances="6">
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="69" OwnTime="69" Samples="2" />
+    <Instance TotalTime="30" OwnTime="30" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+  </Function>
+  <Function Id="0x00400D8E" FQN="System.Windows.DependencyObject.NotifyPropertyChange" TotalTime="474" OwnTime="31" Samples="18" Instances="8">
+    <Instance TotalTime="228" OwnTime="0" Samples="7" />
+    <Instance TotalTime="40" OwnTime="0" Samples="1" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="143" OwnTime="0" Samples="4" />
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+    <Instance TotalTime="33" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00400D8D" FQN="System.Windows.DependencyObject.ProcessCoerceValue" TotalTime="32" OwnTime="32" Samples="1" Instances="1" />
+  <Function Id="0x00400D71" FQN="System.Windows.DependencyObject.SetCurrentValue" TotalTime="101" OwnTime="0" Samples="3" Instances="2">
+    <Instance TotalTime="36" OwnTime="0" Samples="1" />
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+  </Function>
+  <Function Id="0x00400D7D" FQN="System.Windows.DependencyObject.SetValueCommon" TotalTime="499" OwnTime="34" Samples="15" Instances="6">
+    <Instance TotalTime="228" OwnTime="0" Samples="7" />
+    <Instance TotalTime="106" OwnTime="34" Samples="3" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="36" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+  </Function>
+  <Function Id="0x00400D8C" FQN="System.Windows.DependencyObject.UpdateEffectiveValue" TotalTime="608" OwnTime="100" Samples="18" Instances="7">
+    <Instance TotalTime="228" OwnTime="0" Samples="7" />
+    <Instance TotalTime="71" OwnTime="32" Samples="2" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="36" OwnTime="36" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+    <Instance TotalTime="143" OwnTime="0" Samples="4" />
+  </Function>
+  <Function Id="0x00400E9D" FQN="System.Windows.EffectiveValueEntry.GetFlattenedEntry" TotalTime="93" OwnTime="32" Samples="3" Instances="3">
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="30" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+  </Function>
+  <Function Id="0x00400E8C" FQN="System.Windows.EffectiveValueEntry.set_Value" TotalTime="30" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x0030275C" FQN="System.Windows.FrameworkElement.OnPropertyChanged" TotalTime="64" OwnTime="64" Samples="2" Instances="1" />
+  <Function Id="0x00400EF0" FQN="System.Windows.Freezable.FireChanged" TotalTime="333" OwnTime="41" Samples="10" Instances="3">
+    <Instance TotalTime="136" OwnTime="41" Samples="4" />
+    <Instance TotalTime="165" OwnTime="0" Samples="5" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00400F09" FQN="System.Windows.Freezable.get_SingletonHandler" TotalTime="37" OwnTime="37" Samples="1" Instances="1" />
+  <Function Id="0x00400EE5" FQN="System.Windows.Freezable.GetChangeHandlersAndInvalidateSubProperties" TotalTime="292" OwnTime="0" Samples="13" Instances="6">
+    <Instance TotalTime="95" OwnTime="0" Samples="3" />
+    <Instance TotalTime="165" OwnTime="0" Samples="5" />
+    <Instance TotalTime="70" OwnTime="0" Samples="2" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="37" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x00400EDA" FQN="System.Windows.Freezable.OnPropertyChanged" TotalTime="300" OwnTime="96" Samples="10" Instances="4">
+    <Instance TotalTime="228" OwnTime="63" Samples="7" />
+    <Instance TotalTime="40" OwnTime="0" Samples="1" />
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="33" OwnTime="33" Samples="1" />
+  </Function>
+  <Function Id="0x01301843" FQN="System.Windows.FreezableCollection`1.IndexOf" TotalTime="30" OwnTime="30" Samples="1" Instances="1" />
+  <Function Id="0x00401077" FQN="System.Windows.Interop.ComponentDispatcher.get_CurrentThreadData" TotalTime="36" OwnTime="36" Samples="1" Instances="1" />
+  <Function Id="0x00401094" FQN="System.Windows.Interop.ComponentDispatcherThread.RaiseThreadMessage" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x01302743" FQN="System.Windows.Interop.D3DImage.AddDirtyRect" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x013058CA" FQN="System.Windows.Interop.HwndSource+WeakEventPreprocessMessage.OnPreprocessMessage" TotalTime="31" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x01305B3C" FQN="System.Windows.Media.Composition.DUCE+Map.Get" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x01305B43" FQN="System.Windows.Media.Composition.DUCE+MultiChannelResource.GetHandle" TotalTime="33" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x013032CA" FQN="System.Windows.Media.MatrixTransform.MatrixPropertyChanged" TotalTime="40" OwnTime="40" Samples="1" Instances="1" />
+  <Function Id="0x01302BEF" FQN="System.Windows.Media.MediaContext.remove_CommittingBatch" TotalTime="43" OwnTime="0" Samples="1" Instances="1" />
+  <Function Id="0x01303769" FQN="System.Windows.Media.TransformGroup.get_Value" TotalTime="33" OwnTime="33" Samples="1" Instances="1" />
+  <Function Id="0x01303866" FQN="System.Windows.Media.Visual.TrySimpleTransformToAncestor" TotalTime="102" OwnTime="0" Samples="3" Instances="1" />
+  <Function Id="0x00401157" FQN="System.Windows.Threading.Dispatcher.AddTimer" TotalTime="1488" OwnTime="0" Samples="44" Instances="1" />
+  <Function Id="0x00401151" FQN="System.Windows.Threading.Dispatcher.CriticalRequestProcessing" TotalTime="1212" OwnTime="0" Samples="36" Instances="5">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="64" OwnTime="0" Samples="2" />
+    <Instance TotalTime="912" OwnTime="0" Samples="27" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+    <Instance TotalTime="174" OwnTime="0" Samples="5" />
+  </Function>
+  <Function Id="0x004010F6" FQN="System.Windows.Threading.Dispatcher.FromThread" TotalTime="65" OwnTime="0" Samples="2" Instances="2">
+    <Instance TotalTime="32" OwnTime="0" Samples="1" />
+    <Instance TotalTime="34" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x0040114A" FQN="System.Windows.Threading.Dispatcher.GetMessage" TotalTime="1403124" OwnTime="1403124" Samples="41499" Instances="2">
+    <Instance TotalTime="1398930" OwnTime="1398930" Samples="41373" />
+    <Instance TotalTime="4194" OwnTime="4194" Samples="126" />
+  </Function>
+  <Function Id="0x0040111C" FQN="System.Windows.Threading.Dispatcher.InvokeAsyncImpl" TotalTime="174" OwnTime="0" Samples="5" Instances="1" />
+  <Function Id="0x0040115C" FQN="System.Windows.Threading.Dispatcher.KillWin32Timer" TotalTime="2791" OwnTime="2791" Samples="82" Instances="3">
+    <Instance TotalTime="1805" OwnTime="1805" Samples="54" />
+    <Instance TotalTime="948" OwnTime="948" Samples="27" />
+    <Instance TotalTime="39" OwnTime="39" Samples="1" />
+  </Function>
+  <Function Id="0x00401127" FQN="System.Windows.Threading.Dispatcher.LegacyInvokeImpl" TotalTime="36521" OwnTime="0" Samples="1092" Instances="2">
+    <Instance TotalTime="10868" OwnTime="0" Samples="326" />
+    <Instance TotalTime="25654" OwnTime="0" Samples="766" />
+  </Function>
+  <Function Id="0x00401147" FQN="System.Windows.Threading.Dispatcher.ProcessQueue" TotalTime="32857" OwnTime="5676" Samples="984" Instances="2">
+    <Instance TotalTime="7203" OwnTime="5613" Samples="218" />
+    <Instance TotalTime="25654" OwnTime="62" Samples="766" />
+  </Function>
+  <Function Id="0x00401156" FQN="System.Windows.Threading.Dispatcher.PromoteTimers" TotalTime="1930" OwnTime="0" Samples="56" Instances="2">
+    <Instance TotalTime="1860" OwnTime="0" Samples="54" />
+    <Instance TotalTime="70" OwnTime="0" Samples="2" />
+  </Function>
+  <Function Id="0x00401149" FQN="System.Windows.Threading.Dispatcher.PushFrameImpl" TotalTime="1440006" OwnTime="45" Samples="42601" Instances="2">
+    <Instance TotalTime="1409986" OwnTime="45" Samples="41704" />
+    <Instance TotalTime="30021" OwnTime="0" Samples="897" />
+  </Function>
+  <Function Id="0x00401153" FQN="System.Windows.Threading.Dispatcher.RequestForegroundProcessing" TotalTime="1212" OwnTime="1212" Samples="36" Instances="5">
+    <Instance TotalTime="32" OwnTime="32" Samples="1" />
+    <Instance TotalTime="64" OwnTime="64" Samples="2" />
+    <Instance TotalTime="912" OwnTime="912" Samples="27" />
+    <Instance TotalTime="31" OwnTime="31" Samples="1" />
+    <Instance TotalTime="174" OwnTime="174" Samples="5" />
+  </Function>
+  <Function Id="0x00401145" FQN="System.Windows.Threading.Dispatcher.SetPriority" TotalTime="943" OwnTime="0" Samples="28" Instances="2">
+    <Instance TotalTime="912" OwnTime="0" Samples="27" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x0040115B" FQN="System.Windows.Threading.Dispatcher.SetWin32Timer" TotalTime="1488" OwnTime="1488" Samples="44" Instances="1" />
+  <Function Id="0x0040115A" FQN="System.Windows.Threading.Dispatcher.UpdateWin32TimerFromDispatcherThread" TotalTime="2475" OwnTime="0" Samples="72" Instances="3">
+    <Instance TotalTime="948" OwnTime="0" Samples="27" />
+    <Instance TotalTime="39" OwnTime="0" Samples="1" />
+    <Instance TotalTime="1488" OwnTime="0" Samples="44" />
+  </Function>
+  <Function Id="0x0040114E" FQN="System.Windows.Threading.Dispatcher.WndProcHook" TotalTime="36521" OwnTime="0" Samples="1092" Instances="2">
+    <Instance TotalTime="10868" OwnTime="0" Samples="326" />
+    <Instance TotalTime="25654" OwnTime="0" Samples="766" />
+  </Function>
+  <Function Id="0x0040119B" FQN="System.Windows.Threading.DispatcherFrame.get_Continue" TotalTime="31" OwnTime="31" Samples="1" Instances="1" />
+  <Function Id="0x004011B2" FQN="System.Windows.Threading.DispatcherOperation.Invoke" TotalTime="27086" OwnTime="0" Samples="808" Instances="2">
+    <Instance TotalTime="1558" OwnTime="0" Samples="46" />
+    <Instance TotalTime="25528" OwnTime="0" Samples="762" />
+  </Function>
+  <Function Id="0x004011B5" FQN="System.Windows.Threading.DispatcherOperation.InvokeImpl" TotalTime="26992" OwnTime="0" Samples="805" Instances="2">
+    <Instance TotalTime="1558" OwnTime="0" Samples="46" />
+    <Instance TotalTime="25434" OwnTime="0" Samples="759" />
+  </Function>
+  <Function Id="0x00401170" FQN="System.Windows.Threading.DispatcherSynchronizationContext.Wait" TotalTime="30" OwnTime="30" Samples="1" Instances="1" />
+  <Function Id="0x004011F6" FQN="System.Windows.Threading.DispatcherTimer.FireTick" TotalTime="1488" OwnTime="0" Samples="44" Instances="1" />
+  <Function Id="0x004011F5" FQN="System.Windows.Threading.DispatcherTimer.Promote" TotalTime="943" OwnTime="0" Samples="28" Instances="2">
+    <Instance TotalTime="912" OwnTime="0" Samples="27" />
+    <Instance TotalTime="31" OwnTime="0" Samples="1" />
+  </Function>
+  <Function Id="0x004011F4" FQN="System.Windows.Threading.DispatcherTimer.Restart" TotalTime="1488" OwnTime="0" Samples="44" Instances="1" />
+  <Function Id="0x004010DC" FQN="System.Windows.Threading.ExceptionWrapper.InternalRealCall" TotalTime="36521" OwnTime="0" Samples="1895" Instances="4">
+    <Instance TotalTime="10868" OwnTime="0" Samples="326" />
+    <Instance TotalTime="25654" OwnTime="0" Samples="766" />
+    <Instance TotalTime="1488" OwnTime="0" Samples="44" />
+    <Instance TotalTime="25434" OwnTime="0" Samples="759" />
+  </Function>
+  <Function Id="0x004010DB" FQN="System.Windows.Threading.ExceptionWrapper.TryCatchWhen" TotalTime="36521" OwnTime="0" Samples="1895" Instances="4">
+    <Instance TotalTime="10868" OwnTime="0" Samples="326" />
+    <Instance TotalTime="25654" OwnTime="0" Samples="766" />
+    <Instance TotalTime="1488" OwnTime="0" Samples="44" />
+    <Instance TotalTime="25434" OwnTime="0" Samples="759" />
+  </Function>
+  <Function Id="0x00401910" FQN="System.Windows.WeakEventManager+ListenerList`1.DeliverEvent" TotalTime="174" OwnTime="0" Samples="5" Instances="1" />
+  <Function Id="0x08100312" FQN="YISUCommonHardware.Runtime.Common.YISURealtimeTargetHelper.SshAction" TotalTime="1989" OwnTime="0" Samples="56" Instances="1" />
+  <Function Id="0x08100333" FQN="YISUCommonHardware.Runtime.Common.YISURealtimeTargetHelper.SshGetApp" TotalTime="1286" OwnTime="0" Samples="36" Instances="1" />
+</Report>

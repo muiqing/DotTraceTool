@@ -1,0 +1,47 @@
+<Report>
+  <Function Id="0x04000129" FQN="PolarControl.Common.Tools.UI.ControlUtils.InvokeUI" TotalTime="51" OwnTime="24" Samples="3" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ProducerLoop/RunProducerScanOnce/InvokeUI" TotalTime="51" OwnTime="24" Samples="3" />
+  </Function>
+  <Function Id="0x0A30000D" FQN="PolarControl.DataEngine.OnlineUIScheduler.get_IsStart" TotalTime="23" OwnTime="23" Samples="1" Instances="1">
+    <Instance CallStack="RunInternal/Work/DynamicInvokeImpl/InvokeWithOneArg/InvokeDirectByRefWithFewArgs/[Native code]/ctor&gt;b__12_0/get_IsStart" TotalTime="23" OwnTime="23" Samples="1" />
+  </Function>
+  <Function Id="0x08A002A3" FQN="PolarControl.Devices.DeviceDetector.PolarFamilyDeviceDetector.GetDeviceStatus" TotalTime="11838" OwnTime="0" Samples="642" Instances="1">
+    <Instance CallStack="WorkerThreadStart/Dispatch/ExecuteWithThreadLocal/RunFromThreadPoolDispatchLoop/InnerInvoke/Start/MoveNext/Execute/GetDeviceStatus" TotalTime="11838" OwnTime="0" Samples="642" />
+  </Function>
+  <Function Id="0x08A00025" FQN="PolarControl.Devices.Helper.ExtensionHelper.IsIPAddressOnline" TotalTime="11838" OwnTime="0" Samples="642" Instances="1">
+    <Instance CallStack="WorkerThreadStart/Dispatch/ExecuteWithThreadLocal/RunFromThreadPoolDispatchLoop/InnerInvoke/Start/MoveNext/Execute/GetDeviceStatus/IsIPAddressOnline" TotalTime="11838" OwnTime="0" Samples="642" />
+  </Function>
+  <Function Id="0x08A00008" FQN="PolarControl.Devices.Jobs.HardwareDetectorJob.Execute" TotalTime="11838" OwnTime="0" Samples="642" Instances="1">
+    <Instance CallStack="WorkerThreadStart/Dispatch/ExecuteWithThreadLocal/RunFromThreadPoolDispatchLoop/InnerInvoke/Start/MoveNext/Execute" TotalTime="11838" OwnTime="0" Samples="642" />
+  </Function>
+  <Function Id="0x01B017E6" FQN="PolarControl.Instruments.ViewModels.Common.Scope.AxisMappingDataBase.GetEnumerator" TotalTime="32" OwnTime="32" Samples="2" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ProducerLoop/RunProducerScanOnce/ForEach/ForEach/GetEnumerator" TotalTime="32" OwnTime="32" Samples="2" />
+  </Function>
+  <Function Id="0x01B02438" FQN="PolarControl.Instruments.ViewModels.Common.Scope.AxisMappingDataBase+&lt;GetEnumerator&gt;d__108.MoveNext" TotalTime="248" OwnTime="119" Samples="15" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ProducerLoop/RunProducerScanOnce/ForEach/ForEach/MoveNext" TotalTime="248" OwnTime="119" Samples="15" />
+  </Function>
+  <Function Id="0x01B02481" FQN="PolarControl.Instruments.ViewModels.Common.Scope.TimeScope.AxesCollection+&lt;System-Collections-Generic-IEnumerable&lt;PolarControl-Instruments-ViewModels-Common-Scope-Interfaces-IAxisMappingData&gt;-GetEnumerator&gt;d__2.Dispose" TotalTime="12" OwnTime="12" Samples="1" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ProducerLoop/RunProducerScanOnce/ForEach/Dispose" TotalTime="12" OwnTime="12" Samples="1" />
+  </Function>
+  <Function Id="0x01B02482" FQN="PolarControl.Instruments.ViewModels.Common.Scope.TimeScope.AxesCollection+&lt;System-Collections-Generic-IEnumerable&lt;PolarControl-Instruments-ViewModels-Common-Scope-Interfaces-IAxisMappingData&gt;-GetEnumerator&gt;d__2.MoveNext" TotalTime="12" OwnTime="12" Samples="1" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ProducerLoop/RunProducerScanOnce/ForEach/MoveNext" TotalTime="12" OwnTime="12" Samples="1" />
+  </Function>
+  <Function Id="0x01B00114" FQN="PolarControl.Instruments.Views.LightningChartView.ConsumerLoop" TotalTime="15015" OwnTime="15" Samples="924" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ConsumerLoop" TotalTime="15015" OwnTime="15" Samples="924" />
+  </Function>
+  <Function Id="0x01B00112" FQN="PolarControl.Instruments.Views.LightningChartView.ProducerLoop" TotalTime="15015" OwnTime="0" Samples="924" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ProducerLoop" TotalTime="15015" OwnTime="0" Samples="924" />
+  </Function>
+  <Function Id="0x01B00113" FQN="PolarControl.Instruments.Views.LightningChartView.RunProducerScanOnce" TotalTime="528" OwnTime="0" Samples="33" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ProducerLoop/RunProducerScanOnce" TotalTime="528" OwnTime="0" Samples="33" />
+  </Function>
+  <Function Id="0x01B02304" FQN="PolarControl.Instruments.Views.LightningChartView+&lt;&gt;c__DisplayClass14_0.&lt;RunProducerScanOnce&gt;b__0" TotalTime="77" OwnTime="0" Samples="4" Instances="1">
+    <Instance CallStack="Main/RunInternal/RunDispatcher/PushFrameImpl/[Native code]/SubclassWndProc/LegacyInvokeImpl/TryCatchWhen/InternalRealCall/WndProc/WndProcHook/ProcessQueue/Invoke/Run/RunInternal/CallbackWrapper/InvokeImpl/TryCatchWhen/InternalRealCall/&lt;RunProducerScanOnce&gt;b__0" TotalTime="77" OwnTime="0" Samples="4" />
+  </Function>
+  <Function Id="0x01B02307" FQN="PolarControl.Instruments.Views.LightningChartView+&lt;&gt;c__DisplayClass14_1.&lt;RunProducerScanOnce&gt;b__2" TotalTime="125" OwnTime="81" Samples="8" Instances="1">
+    <Instance CallStack="ExecuteWithThreadLocal/RunInternal/ProducerLoop/RunProducerScanOnce/ForEach/ForEach/&lt;RunProducerScanOnce&gt;b__2" TotalTime="125" OwnTime="81" Samples="8" />
+  </Function>
+  <Function Id="0x08B01162" FQN="Quartz.Core.QuartzSchedulerThread+&lt;Run&gt;d__28.MoveNext" TotalTime="15016" OwnTime="3155" Samples="608" Instances="1">
+    <Instance CallStack="WorkerThreadStart/Dispatch/ExecuteWithThreadLocal/RunFromThreadPoolDispatchLoop/InnerInvoke/Run/Start/Start/MoveNext" TotalTime="15016" OwnTime="3155" Samples="608" />
+  </Function>
+</Report>
